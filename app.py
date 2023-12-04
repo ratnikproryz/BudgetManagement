@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, Response, send_file
 from flask import render_template
 from flask import request
 from flask_paginate import Pagination, get_page_parameter
@@ -8,6 +8,7 @@ from matplotlib.figure import Figure
 import matplotlib.pyplot as plt
 
 from controllers.StatisticController import StatisticController
+from controllers.ExportCSVController import ExportCSVController
 
 app = Flask(__name__)
 
@@ -21,6 +22,7 @@ def home():
         page = int(request.args.get("page") or 1)
         total = len(data)
         pagination = Pagination(page=page, total=total)
+        print(pagination.per_page)
         return render_template(
             "home.html",
             header=header,
@@ -42,4 +44,18 @@ def statistic():
 
     return render_template(
         "statistic.html", pieChart=pieChart, barChart=barChart, years=years
+    )
+
+
+@app.route("/export-csv")
+def export():
+    csvController = ExportCSVController()
+
+    page = int(request.args.get("page", 1))
+
+    data, filename = csvController.export(page)
+    return Response(
+        data.to_csv(index=False),
+        mimetype="text/csv",
+        headers={"Content-disposition": "attachment; filename=" + filename},
     )
