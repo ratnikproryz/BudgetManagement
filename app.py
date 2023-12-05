@@ -1,34 +1,26 @@
-from flask import Flask, Response, send_file
+from flask import Flask, Response, redirect
 from flask import render_template
 from flask import request
-from flask_paginate import Pagination, get_page_parameter
-import pandas as pd
-from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-from matplotlib.figure import Figure
-import matplotlib.pyplot as plt
+import json
 
 from controllers.StatisticController import StatisticController
-from controllers.ExportCSVController import ExportCSVController
+from controllers.CSVController import CSVController
 
 app = Flask(__name__)
 
 
 @app.route("/")
 def home():
-    with open("./data/personal_transactions.csv", "r") as csv_file:
-        df = pd.read_csv(csv_file)
-        header = df.columns
-        data = df.values
-        page = int(request.args.get("page") or 1)
-        total = len(data)
-        pagination = Pagination(page=page, total=total)
-        print(pagination.per_page)
-        return render_template(
-            "home.html",
-            header=header,
-            data=data[(page - 1) * 10 : 10 * (page)],
-            pagination=pagination,
-        )
+    csvController = CSVController()
+
+    page = int(request.args.get("page", 1))
+    header, data, pagination = csvController.index(page)
+    return render_template(
+        "home.html",
+        header=header,
+        data=data[(page - 1) * 10 : 10 * (page)],
+        pagination=pagination,
+    )
 
 
 @app.route("/statistic")
@@ -49,13 +41,34 @@ def statistic():
 
 @app.route("/export-csv")
 def export():
-    csvController = ExportCSVController()
+    csvController = CSVController()
 
     page = int(request.args.get("page", 1))
-
     data, filename = csvController.export(page)
+
     return Response(
         data.to_csv(index=False),
         mimetype="text/csv",
         headers={"Content-disposition": "attachment; filename=" + filename},
     )
+
+
+@app.route("/save-csv", methods=["POST"])
+def save_csv():
+    data = json.loads(request.data)
+    data = list(filter(None, data))
+    page = int(request.args.get("page", 1))
+
+    csvController = CSVController()
+    csvController.save(data, page)
+
+    return redirect("/" + "?page=" + str(page))
+
+
+@app.route("/delete/<int:id>")
+def delete(id):
+    csvController = CSVController()
+    csvController.delete(id)
+    page = int(request.args.get("page", 1))
+
+    return redirect("/" + "?page=" + str(page))
