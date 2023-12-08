@@ -42,6 +42,14 @@
         <button id="save-csv" class="btn btn-primary">Save</button>
         <button id="insert-csv" class="btn btn-secondary">Insert Row</button>
       </div>
+      <form id="form" class="w-30 m-3">
+        <select class="form-select" id="category-filter" name="category">
+          <option value="None">All</option>
+          {% for category in categories %}
+          <option value="{{ category }}">{{ category }}</option>
+          {% endfor %}
+        </select>
+      </form>
       <table class="table table-hover w-75" style="height: 100">
         <thead>
           <tr>
@@ -122,6 +130,18 @@
     $('#insert-csv').click((event) => {
       let row = '<td contenteditable="true"></td>'.repeat(7) + '<td></td>';
       $('table tbody').append(`<tr>${row}</tr>`);
+    });
+
+    $('#category-filter').change((event) => {
+      $('#form').submit();
+    });
+
+    $(document).ready(function () {
+      let params = new URLSearchParams(window.location.search);
+
+      if (params.size != 0) {
+        $('#category-filter').val(params.get('category'));
+      }
     });
   });
 </script>
