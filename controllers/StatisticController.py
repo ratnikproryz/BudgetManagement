@@ -55,15 +55,16 @@ class StatisticController:
         fig = Figure()
         axis = fig.add_subplot(1, 1, 1)
 
-        category = self.df["category"].value_counts()
-        print(category[0:top].index)
-        for category, count in category[0:top].items():
+        transaction_type = self.df["transaction_type"].value_counts()
+        # print(category[0:top].index)
+        for tran, count in transaction_type.items():
             print(count)
-            axis.hist(count,
-                      bins=20, alpha=0.5, label=category, edgecolor='black')
+            axis.hist(self.df[self.df["transaction_type" == tran]]['category'],
+                      bins=20, alpha=0.5, label=tran, edgecolor='black')
         axis.set_xlabel('Values')
         axis.set_ylabel('Frequency')
         axis.set_title('Total income and outcome')
+        axis.legend()
         return self.generateImage(fig)
 
     def generateBar(self, year):
