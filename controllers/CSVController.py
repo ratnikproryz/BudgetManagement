@@ -19,7 +19,7 @@ class CSVController:
         if page == 0:
             data = self.df
         else:
-            data = self.df[(page - 1) * 10 : 10 * (page)]
+            data = self.df[(page - 1) * 10: 10 * (page)]
 
         filename = "./data/" + str(time.time()) + ".csv"
         return data, filename
@@ -31,7 +31,7 @@ class CSVController:
             [
                 self.df.loc[: (page - 1) * 10 - 1],
                 data,
-                self.df.loc[10 * page :],
+                self.df.loc[10 * page:],
             ]
         ).reset_index(drop=True)
         self.df.to_csv("./data/personal_transactions.csv", index=False)

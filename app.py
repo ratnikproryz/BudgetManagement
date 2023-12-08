@@ -18,7 +18,7 @@ def home():
     return render_template(
         "home.html",
         header=header,
-        data=data[(page - 1) * 10 : 10 * (page)],
+        data=data[(page - 1) * 10: 10 * (page)],
         pagination=pagination,
     )
 
@@ -34,8 +34,10 @@ def statistic():
     barChart = statistic.generateBar(year)
     years = statistic.getYears()
 
+    barChartIO = statistic.generateBarIO()
+
     return render_template(
-        "statistic.html", pieChart=pieChart, barChart=barChart, years=years
+        "statistic.html", pieChart=pieChart, barChart=barChart, years=years, barChartIO=barChartIO
     )
 
 

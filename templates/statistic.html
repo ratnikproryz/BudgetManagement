@@ -49,6 +49,15 @@
         </div>
         <img src="{{ barChart }}" />
       </div>
+      <div class="flex-column">
+        <div class="w-50">
+          <select class="form-select" id="year-selection" name="year">
+            {% for year in years %}
+            {% endfor %}
+          </select>
+        </div>
+        <img src="{{ barChartIO }}" />
+      </div>
     </div>
   </form>
   </div>

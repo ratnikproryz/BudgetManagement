@@ -22,7 +22,8 @@ class StatisticController:
 
         # Encode PNG image to base64 string
         pngImageB64String = "data:image/png;base64,"
-        pngImageB64String += base64.b64encode(pngImage.getvalue()).decode("utf8")
+        pngImageB64String += base64.b64encode(
+            pngImage.getvalue()).decode("utf8")
 
         return pngImageB64String
 
@@ -32,6 +33,21 @@ class StatisticController:
 
         category = self.df["category"].value_counts()
         axis.pie(category[0:top], labels=category[0:top].index, autopct="%.2f")
+
+        return self.generateImage(fig)
+
+    def generateBarIO(self):
+        fig = Figure()
+        axis = fig.add_subplot(1, 1, 1)
+        total_income = self.df.loc[self.df["transaction_type"]
+                                   == 'income']['amount'].sum()
+        total_outcome = self.df.loc[self.df["transaction_type"]
+                                    == 'outcome']['amount'].sum()
+
+        axis.set_ylabel("Amount")
+        axis.set_title("Total income and outcome")
+        axis.autoscale(enable=True, axis="x", tight=True)
+        axis.bar(['income', 'outcome'], [total_income, total_outcome])
 
         return self.generateImage(fig)
 
