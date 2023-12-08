@@ -22,8 +22,7 @@ class StatisticController:
 
         # Encode PNG image to base64 string
         pngImageB64String = "data:image/png;base64,"
-        pngImageB64String += base64.b64encode(
-            pngImage.getvalue()).decode("utf8")
+        pngImageB64String += base64.b64encode(pngImage.getvalue()).decode("utf8")
 
         return pngImageB64String
 
@@ -55,16 +54,30 @@ class StatisticController:
         fig = Figure()
         axis = fig.add_subplot(1, 1, 1)
 
-        transaction_type = self.df["transaction_type"].value_counts()
-        # print(category[0:top].index)
-        for tran, count in transaction_type.items():
-            print(count)
-            axis.hist(self.df[self.df["transaction_type" == tran]]['category'],
-                      bins=20, alpha=0.5, label=tran, edgecolor='black')
-        axis.set_xlabel('Values')
-        axis.set_ylabel('Frequency')
-        axis.set_title('Total income and outcome')
+        types = self.df["transaction_type"].unique()
+        categories_count = self.df["category"].value_counts()
+        categories = categories_count[0:top].keys()
+        print(categories)
+        for type in types:
+            df = self.df[self.df["transaction_type"] == type]
+            df = df[df["category"].isin(categories)]
+
+            totals = df.groupby("category")["amount"].sum()
+            print(type)
+            print(totals)
+
+            axis.hist(
+                totals,
+                bins=10,
+                alpha=0.5,
+                label=type,
+                edgecolor="black",
+            )
+
+        axis.set_title("Total income and outcome")
         axis.legend()
+        axis.autoscale(enable=True, axis="x", tight=True)
+
         return self.generateImage(fig)
 
     def generateBar(self, year):
