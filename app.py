@@ -37,7 +37,8 @@ def statistic():
     barChart = statistic.generateBar(year)
     years = statistic.getYears()
 
-    barChartIO = statistic.generateBarIO()
+    # barChartIO = statistic.generateBarIO()
+    barChartIO = statistic.generateBarIO(top)
 
     return render_template(
         "statistic.html", pieChart=pieChart, barChart=barChart, years=years, barChartIO=barChartIO

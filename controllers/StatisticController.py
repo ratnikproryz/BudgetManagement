@@ -36,19 +36,34 @@ class StatisticController:
 
         return self.generateImage(fig)
 
-    def generateBarIO(self):
+    # def generateBarIO(self):
+    #     fig = Figure()
+    #     axis = fig.add_subplot(1, 1, 1)
+    #     total_income = self.df.loc[self.df["transaction_type"]
+    #                                == 'income']['amount'].sum()
+    #     total_outcome = self.df.loc[self.df["transaction_type"]
+    #                                 == 'outcome']['amount'].sum()
+
+    #     axis.set_ylabel("Amount")
+    #     axis.set_title("Total income and outcome")
+    #     axis.autoscale(enable=True, axis="x", tight=True)
+    #     axis.bar(['income', 'outcome'], [total_income, total_outcome])
+
+    #     return self.generateImage(fig)
+
+    def generateBarIO(self, top):
         fig = Figure()
         axis = fig.add_subplot(1, 1, 1)
-        total_income = self.df.loc[self.df["transaction_type"]
-                                   == 'income']['amount'].sum()
-        total_outcome = self.df.loc[self.df["transaction_type"]
-                                    == 'outcome']['amount'].sum()
 
-        axis.set_ylabel("Amount")
-        axis.set_title("Total income and outcome")
-        axis.autoscale(enable=True, axis="x", tight=True)
-        axis.bar(['income', 'outcome'], [total_income, total_outcome])
-
+        category = self.df["category"].value_counts()
+        print(category[0:top].index)
+        for category, count in category[0:top].items():
+            print(count)
+            axis.hist(count,
+                      bins=20, alpha=0.5, label=category, edgecolor='black')
+        axis.set_xlabel('Values')
+        axis.set_ylabel('Frequency')
+        axis.set_title('Total income and outcome')
         return self.generateImage(fig)
 
     def generateBar(self, year):

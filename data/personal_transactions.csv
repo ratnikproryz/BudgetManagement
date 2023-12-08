@@ -1,807 +1,807 @@
 id,date,description,amount,transaction_type,category,account_name
-1,1/1/2018,Amazon,11.11,income,Shopping,Platinum Card
-2,1/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-3,1/2/2018,Thai Restaurant,24.22,income,Restaurants,Silver Card
-4,1/3/2018,outcome Card Payment,2298.09,outcome,outcome Card Payment,Platinum Card
-5,1/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-6,1/5/2018,American Tavern,25.85,income,Restaurants,Silver Card
-7,1/6/2018,Hardware Store,18.45,income,Home Improvement,Silver Card
-8,1/8/2018,Gas Company,45,income,Utilities,Checking
-9,1/8/2018,Hardware Store,15.38,income,Home Improvement,Silver Card
-10,1/9/2018,Spotify,10.69,income,Music,Platinum Card
-11,1/10/2018,Phone Company,89.46,income,Mobile Phone,Checking
-12,1/11/2018,Shell,34.87,income,Gas & Fuel,Platinum Card
-13,1/11/2018,Grocery Store,43.54,income,Groceries,Platinum Card
-14,1/12/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-15,1/13/2018,Pizza Place,32.91,income,Fast Food,Platinum Card
-16,1/13/2018,Amazon,39.05,income,Shopping,Platinum Card
-17,1/15/2018,Grocery Store,44.19,income,Groceries,Silver Card
-18,1/15/2018,American Tavern,64.11,income,Restaurants,Silver Card
-19,1/16/2018,City Water Charges,35,income,Utilities,Checking
-20,1/16/2018,Power Company,60,income,Utilities,Checking
-21,1/19/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-22,1/20/2018,Amazon,50.21,income,Shopping,Platinum Card
-23,1/22/2018,outcome Card Payment,554.99,outcome,outcome Card Payment,Platinum Card
-24,1/22/2018,outcome Card Payment,309.81,outcome,outcome Card Payment,Silver Card
-25,1/22/2018,outcome Card Payment,554.99,income,outcome Card Payment,Checking
-26,1/22/2018,Hardware Store,17.38,income,Home Improvement,Silver Card
-27,1/23/2018,outcome Card Payment,309.81,income,outcome Card Payment,Checking
-28,1/24/2018,Starbucks,3,income,Coffee Shops,Platinum Card
-29,1/25/2018,Internet Service Provider,69.99,income,Internet,Checking
-30,1/29/2018,Shell,30.42,income,Gas & Fuel,Silver Card
-31,1/29/2018,Thai Restaurant,25,income,Restaurants,Silver Card
-32,1/29/2018,Brunch Restaurant,17.62,income,Restaurants,Platinum Card
-33,2/1/2018,Grocery Store,27.79,income,Groceries,Platinum Card
-34,2/1/2018,Amazon,11.11,income,Shopping,Platinum Card
-35,2/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-36,2/2/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-37,2/3/2018,Japanese Restaurant,57.02,income,Restaurants,Platinum Card
-38,2/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-39,2/5/2018,outcome Card Payment,145.14,outcome,outcome Card Payment,Platinum Card
-40,2/6/2018,outcome Card Payment,154.13,outcome,outcome Card Payment,Silver Card
-41,2/7/2018,outcome Card Payment,154.13,income,outcome Card Payment,Checking
-42,2/7/2018,Gas Company,65,income,Utilities,Checking
-43,2/9/2018,Barbershop,30,income,Haircut,Platinum Card
-44,2/9/2018,Spotify,10.69,income,Music,Platinum Card
-45,2/10/2018,Bojangles,10.66,income,Fast Food,Platinum Card
-46,2/11/2018,Fancy Restaurant,106.8,income,Restaurants,Platinum Card
-47,2/12/2018,Shell,36.47,income,Gas & Fuel,Silver Card
-48,2/12/2018,Phone Company,89.52,income,Mobile Phone,Checking
-49,2/14/2018,Brewing Company,14,income,Alcohol & Bars,Silver Card
-50,2/15/2018,American Tavern,10,income,Restaurants,Platinum Card
-51,2/15/2018,Power Company,60,income,Utilities,Checking
-52,2/16/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-53,2/16/2018,Brunch Restaurant,8,income,Restaurants,Silver Card
-54,2/16/2018,City Water Charges,35,income,Utilities,Checking
-55,2/20/2018,Grocery Store,35.95,income,Groceries,Silver Card
-56,2/20/2018,Mexican Restaurant,23.51,income,Restaurants,Silver Card
-57,2/21/2018,Starbucks,2,income,Coffee Shops,Platinum Card
-58,2/22/2018,Starbucks,4,income,Coffee Shops,Silver Card
-59,2/26/2018,outcome Card Payment,765.37,outcome,outcome Card Payment,Platinum Card
-60,2/26/2018,outcome Card Payment,156.11,outcome,outcome Card Payment,Silver Card
-61,2/26/2018,outcome Card Payment,765.37,income,outcome Card Payment,Checking
-62,2/26/2018,Internet Service Provider,74.99,income,Internet,Checking
-63,2/26/2018,American Tavern,85.52,income,Restaurants,Silver Card
-64,2/26/2018,Gas Station,32.21,income,Gas & Fuel,Silver Card
-65,2/27/2018,outcome Card Payment,156.11,income,outcome Card Payment,Checking
-66,3/1/2018,Grocery Store,32.07,income,Groceries,Silver Card
-67,3/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-68,3/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-69,3/2/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-70,3/3/2018,Grocery Store,23.74,income,Groceries,Silver Card
-71,3/4/2018,Grocery Store,10.69,income,Groceries,Platinum Card
-72,3/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-73,3/4/2018,BBQ Restaurant,42.24,income,Restaurants,Platinum Card
-74,3/5/2018,Starbucks,3,income,Coffee Shops,Platinum Card
-75,3/5/2018,outcome Card Payment,761.59,outcome,outcome Card Payment,Silver Card
-76,3/5/2018,outcome Card Payment,761.59,income,outcome Card Payment,Checking
-77,3/7/2018,Starbucks,3.5,income,Coffee Shops,Platinum Card
-78,3/8/2018,BP,34.9,income,Gas & Fuel,Platinum Card
-79,3/8/2018,Gas Company,52,income,Utilities,Checking
-80,3/9/2018,Grocery Store,20.72,income,Groceries,Platinum Card
-81,3/9/2018,Grocery Store,5.09,income,Groceries,Platinum Card
-82,3/9/2018,Spotify,10.69,income,Music,Platinum Card
-83,3/12/2018,Grocery Store,19.35,income,Groceries,Platinum Card
-84,3/12/2018,Phone Company,89.52,income,Mobile Phone,Checking
-85,3/13/2018,Amazon,45.75,income,Shopping,Platinum Card
-86,3/14/2018,Grocery Store,22.5,income,Groceries,Platinum Card
-87,3/14/2018,Brunch Restaurant,8.49,income,Restaurants,Platinum Card
-88,3/15/2018,Starbucks,3.5,income,Coffee Shops,Platinum Card
-89,3/15/2018,Power Company,60,income,Utilities,Checking
-90,3/16/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-91,3/17/2018,Brewing Company,19.5,income,Alcohol & Bars,Silver Card
-92,3/17/2018,Pizza Place,23.34,income,Fast Food,Platinum Card
-93,3/19/2018,Mediterranean Restaurant,36.48,income,Restaurants,Silver Card
-94,3/19/2018,City Water Charges,35,income,Utilities,Checking
-95,3/20/2018,Amazon,14.97,income,Shopping,Platinum Card
-96,3/22/2018,BP,30.55,income,Gas & Fuel,Silver Card
-97,3/23/2018,outcome Card Payment,559.91,outcome,outcome Card Payment,Platinum Card
-98,3/23/2018,outcome Card Payment,559.91,income,outcome Card Payment,Checking
-99,3/23/2018,Grocery Store,11.76,income,Groceries,Silver Card
-100,3/26/2018,Internet Service Provider,74.99,income,Internet,Checking
-101,3/28/2018,Grocery Store,16.06,income,Groceries,Silver Card
-102,3/28/2018,Pizza Place,24.98,income,Restaurants,Silver Card
-103,3/29/2018,Steakhouse,17.64,income,Restaurants,Silver Card
-104,3/30/2018,Grocery Store,9.09,income,Groceries,Silver Card
-105,3/30/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-106,3/31/2018,Belgian Restaurant,38.32,income,Restaurants,Platinum Card
-107,3/31/2018,Chili's,24.74,income,Restaurants,Platinum Card
-108,3/31/2018,Greek Restaurant,41.16,income,Restaurants,Silver Card
-109,4/1/2018,Grocery Store,80.79,income,Groceries,Platinum Card
-110,4/1/2018,Brewing Company,59.48,income,Restaurants,Platinum Card
-111,4/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-112,4/2/2018,outcome Card Payment,817.14,outcome,outcome Card Payment,Silver Card
-113,4/2/2018,outcome Card Payment,817.14,income,outcome Card Payment,Checking
-114,4/2/2018,Grocery Store,82.36,income,Groceries,Platinum Card
-115,4/2/2018,Hardware Store,13.89,income,Home Improvement,Platinum Card
-116,4/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-117,4/3/2018,Amazon Video,6.41,income,Movies & DVDs,Platinum Card
-118,4/4/2018,outcome Card Payment,363.08,outcome,outcome Card Payment,Platinum Card
-119,4/4/2018,outcome Card Payment,363.08,income,outcome Card Payment,Checking
-120,4/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-121,4/6/2018,Chevron,4.58,income,Gas & Fuel,Platinum Card
-122,4/6/2018,Tiny Deli,9.76,income,Restaurants,Platinum Card
-123,4/8/2018,Irish Pub,22,income,Restaurants,Platinum Card
-124,4/9/2018,Blue Sky Market,6.48,income,Groceries,Silver Card
-125,4/9/2018,Spotify,10.69,income,Music,Platinum Card
-126,4/9/2018,Gas Company,30,income,Utilities,Checking
-127,4/11/2018,Phone Company,89.52,income,Mobile Phone,Checking
-128,4/12/2018,Starbucks,7,income,Coffee Shops,Platinum Card
-129,4/12/2018,Barbershop,30,income,Haircut,Platinum Card
-130,4/13/2018,BP,37.98,income,Gas & Fuel,Platinum Card
-131,4/13/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-132,4/13/2018,American Tavern,10.66,income,Restaurants,Platinum Card
-133,4/14/2018,Hardware Store,11.61,income,Home Improvement,Platinum Card
-134,4/14/2018,American Tavern,41,income,Restaurants,Platinum Card
-135,4/16/2018,State Farm,75,income,Auto Insurance,Checking
-136,4/16/2018,City Water Charges,35,income,Utilities,Checking
-137,4/18/2018,Power Company,60,income,Utilities,Checking
-138,4/20/2018,Thai Restaurant,24.22,income,Restaurants,Silver Card
-139,4/21/2018,Grocery Store,4.32,income,Groceries,Silver Card
-140,4/21/2018,American Tavern,35.15,income,Restaurants,Silver Card
-141,4/22/2018,Grocery Store,21.32,income,Groceries,Platinum Card
-142,4/23/2018,Hardware Store,42.7,income,Home Improvement,Silver Card
-143,4/24/2018,Hardware Store,224.7,income,Home Improvement,Platinum Card
-144,4/24/2018,Amazon,41.34,income,Shopping,Platinum Card
-145,4/25/2018,Hardware Store,210.79,income,Home Improvement,Silver Card
-146,4/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-147,4/26/2018,outcome Card Payment,769.72,outcome,outcome Card Payment,Silver Card
-148,4/26/2018,outcome Card Payment,1216.94,outcome,outcome Card Payment,Platinum Card
-149,4/26/2018,outcome Card Payment,1216.94,income,outcome Card Payment,Checking
-150,4/27/2018,outcome Card Payment,769.72,income,outcome Card Payment,Checking
-151,4/27/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-152,4/28/2018,Grocery Store,22.98,income,Groceries,Silver Card
-153,4/29/2018,QuikTrip,39,income,Gas & Fuel,Platinum Card
-154,4/29/2018,Grocery Store,51.05,income,Groceries,Platinum Card
-155,4/29/2018,Hardware Store,68.47,income,Home Improvement,Platinum Card
-156,4/30/2018,Grocery Store,5.09,income,Groceries,Platinum Card
-157,5/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-158,5/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-159,5/3/2018,Amazon,49.72,income,Shopping,Platinum Card
-160,5/4/2018,Grocery Store,42.23,income,Groceries,Platinum Card
-161,5/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-162,5/5/2018,Bojangles,7.27,income,Fast Food,Platinum Card
-163,5/5/2018,Pizza Place,20.52,income,Fast Food,Platinum Card
-164,5/6/2018,Hardware Store,22.37,income,Home Improvement,Platinum Card
-165,5/6/2018,Amazon,117.69,income,Shopping,Platinum Card
-166,5/9/2018,outcome Card Payment,601.4,outcome,outcome Card Payment,Platinum Card
-167,5/9/2018,outcome Card Payment,601.4,income,outcome Card Payment,Checking
-168,5/9/2018,Spotify,10.69,income,Music,Platinum Card
-169,5/9/2018,Gas Company,30,income,Utilities,Checking
-170,5/10/2018,Phone Company,111.18,income,Mobile Phone,Checking
-171,5/11/2018,Grocery Store,57.32,income,Groceries,Platinum Card
-172,5/11/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-173,5/11/2018,Mike's Construction Co.,8000,income,Home Improvement,Checking
-174,5/12/2018,Liquor Store,27.77,income,Alcohol & Bars,Platinum Card
-175,5/12/2018,Shell,33.3,income,Gas & Fuel,Platinum Card
-176,5/12/2018,Fancy Restaurant,78,income,Restaurants,Platinum Card
-177,5/14/2018,Grocery Store,67.63,income,Groceries,Silver Card
-178,5/15/2018,Power Company,60,income,Utilities,Checking
-179,5/17/2018,Barbershop,29,income,Haircut,Silver Card
-180,5/17/2018,City Water Charges,35,income,Utilities,Checking
-181,5/18/2018,State Farm,75,income,Auto Insurance,Checking
-182,5/18/2018,Amazon,6.41,income,Shopping,Platinum Card
-183,5/19/2018,outcome Card Payment,207.08,outcome,outcome Card Payment,Platinum Card
-184,5/19/2018,Grocery Store,31,income,Groceries,Silver Card
-185,5/19/2018,Greek Restaurant,23.26,income,Restaurants,Silver Card
-186,5/21/2018,outcome Card Payment,283.07,outcome,outcome Card Payment,Silver Card
-187,5/21/2018,Thai Restaurant,26.04,income,Restaurants,Silver Card
-188,5/21/2018,Amazon,32.5,income,Shopping,Platinum Card
-189,5/22/2018,outcome Card Payment,283.07,income,outcome Card Payment,Checking
-190,5/24/2018,BP,39.44,income,Gas & Fuel,Silver Card
-191,5/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-192,5/25/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-193,5/28/2018,Movie Theater,9.62,income,Entertainment,Silver Card
-194,5/28/2018,Grocery Store,91.03,income,Groceries,Silver Card
-195,5/29/2018,Movie Theater,20,income,Movies & DVDs,Silver Card
-196,5/29/2018,Movie Theater,6.25,income,Movies & DVDs,Silver Card
-197,6/1/2018,BP,38.63,income,Gas & Fuel,Platinum Card
-198,6/1/2018,Grocery Store,6.11,income,Groceries,Platinum Card
-199,6/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-200,6/2/2018,outcome Card Payment,235.18,outcome,outcome Card Payment,Silver Card
-201,6/2/2018,outcome Card Payment,466.36,outcome,outcome Card Payment,Platinum Card
-202,6/3/2018,Italian Restaurant,65.81,income,Restaurants,Platinum Card
-203,6/4/2018,outcome Card Payment,235.18,income,outcome Card Payment,Checking
-204,6/4/2018,Grocery Store,24.12,income,Groceries,Platinum Card
-205,6/4/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-206,6/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-207,6/6/2018,Starbucks,4,income,Coffee Shops,Platinum Card
-208,6/8/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-209,6/8/2018,Gas Company,30,income,Utilities,Checking
-210,6/9/2018,Chick-Fil-A,16.18,income,Fast Food,Platinum Card
-211,6/9/2018,Grocery Store,9.56,income,Groceries,Platinum Card
-212,6/9/2018,Spotify,10.69,income,Music,Platinum Card
-213,6/10/2018,Grocery Store,46.01,income,Groceries,Platinum Card
-214,6/12/2018,Grocery Store,12.55,income,Groceries,Platinum Card
-215,6/12/2018,Phone Company,89.46,income,Mobile Phone,Checking
-216,6/14/2018,outcome Card Payment,283.44,outcome,outcome Card Payment,Platinum Card
-217,6/14/2018,outcome Card Payment,283.44,income,outcome Card Payment,Checking
-218,6/14/2018,Grocery Store,7.02,income,Groceries,Platinum Card
-219,6/15/2018,Power Company,60,income,Utilities,Checking
-220,6/16/2018,Starbucks,3,income,Coffee Shops,Platinum Card
-221,6/16/2018,Pizza Place,22.66,income,Fast Food,Platinum Card
-222,6/16/2018,Grocery Store,13.9,income,Groceries,Platinum Card
-223,6/18/2018,City Water Charges,35,income,Utilities,Checking
-224,6/19/2018,Shell,38.52,income,Gas & Fuel,Platinum Card
-225,6/19/2018,Grocery Store,2.69,income,Groceries,Platinum Card
-226,6/20/2018,State Farm,75,income,Auto Insurance,Checking
-227,6/20/2018,outcome Card Payment,89.45,outcome,outcome Card Payment,Silver Card
-228,6/20/2018,Barbershop,30,income,Haircut,Silver Card
-229,6/21/2018,outcome Card Payment,89.45,income,outcome Card Payment,Checking
-230,6/22/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-231,6/23/2018,Brunch Restaurant,8.5,income,Restaurants,Silver Card
-232,6/23/2018,Amazon,74.97,income,Shopping,Platinum Card
-233,6/25/2018,outcome Card Payment,942.76,outcome,outcome Card Payment,Platinum Card
-234,6/25/2018,outcome Card Payment,942.76,income,outcome Card Payment,Checking
-235,6/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-236,6/26/2018,Grocery Store,9.62,income,Groceries,Silver Card
-237,6/27/2018,Starbucks,3.5,income,Coffee Shops,Silver Card
-238,6/27/2018,Pizza Place,22.66,income,Fast Food,Platinum Card
-239,6/28/2018,Grocery Store,7.57,income,Groceries,Silver Card
-240,7/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-241,7/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-242,7/2/2018,Movie Theater,25,income,Movies & DVDs,Silver Card
-243,7/2/2018,American Tavern,36.44,income,Restaurants,Silver Card
-244,7/4/2018,BP,34.48,income,Gas & Fuel,Silver Card
-245,7/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-246,7/5/2018,Grocery Store,44.25,income,Groceries,Silver Card
-247,7/5/2018,Amazon,212.32,income,Shopping,Platinum Card
-248,7/6/2018,Amazon Video,6.41,income,Movies & DVDs,Platinum Card
-249,7/6/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-250,7/8/2018,outcome Card Payment,259.87,outcome,outcome Card Payment,Platinum Card
-251,7/9/2018,outcome Card Payment,242.16,outcome,outcome Card Payment,Silver Card
-252,7/9/2018,outcome Card Payment,259.87,income,outcome Card Payment,Checking
-253,7/9/2018,Spotify,10.69,income,Music,Platinum Card
-254,7/10/2018,outcome Card Payment,242.16,income,outcome Card Payment,Checking
-255,7/10/2018,Grocery Store,5.39,income,Groceries,Silver Card
-256,7/10/2018,Gas Company,30,income,Utilities,Checking
-257,7/11/2018,Phone Company,89.46,income,Mobile Phone,Checking
-258,7/14/2018,Go Mart,33.51,income,Gas & Fuel,Silver Card
-259,7/15/2018,Circle K,36.24,income,Gas & Fuel,Platinum Card
-260,7/17/2018,Wendy's,15.23,income,Fast Food,Silver Card
-261,7/17/2018,City Water Charges,35,income,Utilities,Checking
-262,7/17/2018,Power Company,60,income,Utilities,Checking
-263,7/18/2018,Irish Restaurant,28.54,income,Alcohol & Bars,Platinum Card
-264,7/18/2018,State Farm,75,income,Auto Insurance,Checking
-265,7/20/2018,outcome Card Payment,61.43,outcome,outcome Card Payment,Silver Card
-266,7/20/2018,outcome Card Payment,102.88,outcome,outcome Card Payment,Platinum Card
-267,7/20/2018,outcome Card Payment,102.88,income,outcome Card Payment,Checking
-268,7/20/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-269,7/21/2018,Grocery Store,28.93,income,Groceries,Platinum Card
-270,7/21/2018,Barbershop,30,income,Haircut,Platinum Card
-271,7/23/2018,outcome Card Payment,61.43,income,outcome Card Payment,Checking
-272,7/23/2018,Starbucks,9.58,income,Fast Food,Platinum Card
-273,7/24/2018,American Tavern,26.59,income,Restaurants,Platinum Card
-274,7/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-275,7/26/2018,Conoco,33.67,income,Gas & Fuel,Silver Card
-276,7/28/2018,Grocery Store,7.61,income,Groceries,Silver Card
-277,7/30/2018,American Tavern,34.38,income,Restaurants,Silver Card
-278,7/31/2018,Brewing Company,6.6,income,Alcohol & Bars,Silver Card
-279,8/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-280,8/2/2018,outcome Card Payment,816.27,outcome,outcome Card Payment,Platinum Card
-281,8/2/2018,Shell,40.44,income,Gas & Fuel,Silver Card
-282,8/2/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-283,8/3/2018,Grocery Store,6.27,income,Groceries,Silver Card
-284,8/3/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-285,8/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-286,8/6/2018,Amazon,76.47,income,Shopping,Platinum Card
-287,8/9/2018,Spotify,10.69,income,Music,Platinum Card
-288,8/9/2018,Gas Company,30,income,Utilities,Checking
-289,8/10/2018,Phone Company,89.4,income,Mobile Phone,Checking
-290,8/11/2018,Chick-Fil-A,13.67,income,Fast Food,Platinum Card
-291,8/11/2018,Valero,33.66,income,Gas & Fuel,Platinum Card
-292,8/15/2018,outcome Card Payment,269.56,outcome,outcome Card Payment,Silver Card
-293,8/15/2018,outcome Card Payment,159.38,outcome,outcome Card Payment,Platinum Card
-294,8/15/2018,Shell,41.07,income,Gas & Fuel,Platinum Card
-295,8/15/2018,Grocery Store,5.64,income,Groceries,Platinum Card
-296,8/15/2018,Power Company,60,income,Utilities,Checking
-297,8/16/2018,outcome Card Payment,269.56,income,outcome Card Payment,Checking
-298,8/16/2018,City Water Charges,35,income,Utilities,Checking
-299,8/17/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-300,8/17/2018,Amazon,14.98,income,Shopping,Platinum Card
-301,8/18/2018,Amazon,23.47,income,Shopping,Platinum Card
-302,8/20/2018,State Farm,75,income,Auto Insurance,Checking
-303,8/21/2018,outcome Card Payment,34.18,outcome,outcome Card Payment,Silver Card
-304,8/21/2018,outcome Card Payment,99.76,outcome,outcome Card Payment,Platinum Card
-305,8/21/2018,outcome Card Payment,99.76,income,outcome Card Payment,Checking
-306,8/22/2018,outcome Card Payment,34.18,income,outcome Card Payment,Checking
-307,8/24/2018,American Tavern,42.31,income,Restaurants,Platinum Card
-308,8/27/2018,Internet Service Provider,74.99,income,Internet,Checking
-309,8/30/2018,Shell,35.65,income,Gas & Fuel,Platinum Card
-310,8/31/2018,Grocery Store,11.64,income,Groceries,Platinum Card
-311,8/31/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-312,9/1/2018,Brewing Company,47.4,income,Alcohol & Bars,Platinum Card
-313,9/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-314,9/2/2018,Amazon,109.83,income,Shopping,Platinum Card
-315,9/4/2018,outcome Card Payment,687.29,outcome,outcome Card Payment,Platinum Card
-316,9/4/2018,outcome Card Payment,687.29,income,outcome Card Payment,Checking
-317,9/4/2018,Mortgage Payment,1247.44,income,Mortgage & Rent,Checking
-318,9/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-319,9/7/2018,Gas Company,30,income,Utilities,Checking
-320,9/9/2018,Brewing Company,18,income,Alcohol & Bars,Platinum Card
-321,9/9/2018,Spotify,10.69,income,Music,Platinum Card
-322,9/11/2018,BP,38.86,income,Gas & Fuel,Platinum Card
-323,9/11/2018,Grocery Store,7.87,income,Groceries,Platinum Card
-324,9/12/2018,Grocery Store,47.16,income,Groceries,Platinum Card
-325,9/12/2018,Phone Company,89.4,income,Mobile Phone,Checking
-326,9/13/2018,Grocery Store,5.64,income,Groceries,Platinum Card
-327,9/14/2018,outcome Card Payment,134.34,outcome,outcome Card Payment,Platinum Card
-328,9/14/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-329,9/17/2018,Grocery Store,10.17,income,Groceries,Platinum Card
-330,9/17/2018,Grocery Store,8.8,income,Groceries,Platinum Card
-331,9/17/2018,City Water Charges,35,income,Utilities,Checking
-332,9/18/2018,Grocery Store,4.32,income,Groceries,Platinum Card
-333,9/18/2018,Power Company,60,income,Utilities,Checking
-334,9/19/2018,State Farm,75,income,Auto Insurance,Checking
-335,9/19/2018,Barbershop,30,income,Haircut,Platinum Card
-336,9/20/2018,Amazon,47.38,income,Shopping,Platinum Card
-337,9/22/2018,Hardware Store,69.4,income,Home Improvement,Platinum Card
-338,9/22/2018,Hardware Store,6.83,income,Home Improvement,Platinum Card
-339,9/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-340,9/25/2018,Sushi Restaurant,48.64,income,Restaurants,Silver Card
-341,9/26/2018,Starbucks,5,income,Coffee Shops,Platinum Card
-342,9/26/2018,Exxon,38,income,Gas & Fuel,Silver Card
-343,9/27/2018,Valero,40.71,income,Gas & Fuel,Platinum Card
-344,9/28/2018,outcome Card Payment,128.12,outcome,outcome Card Payment,Silver Card
-345,9/28/2018,outcome Card Payment,284.96,outcome,outcome Card Payment,Platinum Card
-346,9/28/2018,outcome Card Payment,284.96,income,outcome Card Payment,Checking
-347,9/28/2018,Grocery Store,13.36,income,Groceries,Platinum Card
-348,9/28/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-349,9/29/2018,Greek Restaurant,23.26,income,Restaurants,Platinum Card
-350,9/29/2018,German Restaurant,46.7,income,Restaurants,Platinum Card
-351,10/1/2018,Starbucks,3,income,Coffee Shops,Platinum Card
-352,10/1/2018,outcome Card Payment,128.12,income,outcome Card Payment,Checking
-353,10/1/2018,Grocery Store,15.66,income,Groceries,Platinum Card
-354,10/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-355,10/2/2018,outcome Card Payment,124.03,outcome,outcome Card Payment,Platinum Card
-356,10/2/2018,outcome Card Payment,124.03,income,outcome Card Payment,Checking
-357,10/2/2018,Mortgage Payment,1209.18,income,Mortgage & Rent,Checking
-358,10/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-359,10/6/2018,American Tavern,27,income,Restaurants,Silver Card
-360,10/8/2018,Shell,38.06,income,Gas & Fuel,Silver Card
-361,10/8/2018,Hardware Store,80.65,income,Home Improvement,Silver Card
-362,10/8/2018,Hardware Store,31.2,income,Home Improvement,Silver Card
-363,10/9/2018,Spotify,10.69,income,Music,Platinum Card
-364,10/9/2018,Amazon,19.98,income,Shopping,Platinum Card
-365,10/9/2018,Gas Company,30,income,Utilities,Checking
-366,10/10/2018,Grocery Store,53.68,income,Groceries,Silver Card
-367,10/11/2018,Phone Company,89.4,income,Mobile Phone,Checking
-368,10/12/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-369,10/16/2018,Power Company,60,income,Utilities,Checking
-370,10/17/2018,City Water Charges,35,income,Utilities,Checking
-371,10/18/2018,State Farm,75,income,Auto Insurance,Checking
-372,10/18/2018,Grocery Store,33.55,income,Groceries,Platinum Card
-373,10/18/2018,Hardware Store,45.24,income,Home Improvement,Platinum Card
-374,10/18/2018,Brunch Restaurant,8,income,Restaurants,Platinum Card
-375,10/21/2018,outcome Card Payment,544.37,outcome,outcome Card Payment,Platinum Card
-376,10/22/2018,outcome Card Payment,353.83,outcome,outcome Card Payment,Silver Card
-377,10/22/2018,outcome Card Payment,353.83,income,outcome Card Payment,Checking
-378,10/22/2018,BP,34.66,income,Gas & Fuel,Platinum Card
-379,10/23/2018,Grocery Store,7.57,income,Groceries,Platinum Card
-380,10/25/2018,Internet Service Provider,74.99,income,Internet,Checking
-381,10/25/2018,Amazon,29.98,income,Shopping,Platinum Card
-382,10/26/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-383,10/27/2018,American Tavern,25.4,income,Restaurants,Silver Card
-384,10/28/2018,Brewing Company,12.71,income,Alcohol & Bars,Platinum Card
-385,10/28/2018,Seafood Restaurant,14.75,income,Food & Dining,Platinum Card
-386,10/28/2018,Grocery Store,92.49,income,Groceries,Platinum Card
-387,10/28/2018,Italian Restaurant,54,income,Restaurants,Platinum Card
-388,10/31/2018,Grocery Store,5.64,income,Groceries,Platinum Card
-389,11/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-390,11/2/2018,outcome Card Payment,262.51,outcome,outcome Card Payment,Platinum Card
-391,11/2/2018,outcome Card Payment,262.51,income,outcome Card Payment,Checking
-392,11/2/2018,Mortgage Payment,1209.18,income,Mortgage & Rent,Checking
-393,11/3/2018,Pizza Place,23.66,income,Fast Food,Platinum Card
-394,11/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-395,11/5/2018,Shell,36.51,income,Gas & Fuel,Platinum Card
-396,11/6/2018,Amazon,53.95,income,Shopping,Platinum Card
-397,11/6/2018,Gas Company,30,income,Utilities,Checking
-398,11/8/2018,Grocery Store,5.64,income,Groceries,Platinum Card
-399,11/9/2018,Spotify,10.69,income,Music,Platinum Card
-400,11/9/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-401,11/10/2018,Brewing Company,27,income,Alcohol & Bars,Platinum Card
-402,11/10/2018,Chick-Fil-A,14.19,income,Fast Food,Platinum Card
-403,11/10/2018,Food Truck,24.4,income,Groceries,Platinum Card
-404,11/12/2018,Grocery Store,10.18,income,Groceries,Platinum Card
-405,11/12/2018,American Tavern,22.33,income,Restaurants,Silver Card
-406,11/13/2018,Grocery Store,4.8,income,Groceries,Platinum Card
-407,11/13/2018,Grocery Store,37.43,income,Groceries,Platinum Card
-408,11/13/2018,Grocery Store,10.15,income,Groceries,Platinum Card
-409,11/13/2018,Phone Company,89.54,income,Mobile Phone,Checking
-410,11/14/2018,Power Company,60,income,Utilities,Checking
-411,11/16/2018,City Water Charges,35,income,Utilities,Checking
-412,11/17/2018,Brewing Company,22.8,income,Alcohol & Bars,Platinum Card
-413,11/17/2018,Hardware Store,15.47,income,Home Improvement,Platinum Card
-414,11/17/2018,Hardware Store,6.4,income,Home Improvement,Platinum Card
-415,11/17/2018,Greek Restaurant,23.26,income,Restaurants,Platinum Card
-416,11/19/2018,Brewing Company,20,income,Alcohol & Bars,Silver Card
-417,11/19/2018,QuikTrip,29.15,income,Gas & Fuel,Silver Card
-418,11/19/2018,Hardware Store,10.02,income,Home Improvement,Silver Card
-419,11/20/2018,State Farm,75,income,Auto Insurance,Checking
-420,11/20/2018,outcome Card Payment,421.96,outcome,outcome Card Payment,Platinum Card
-421,11/21/2018,Grocery Store,5.64,income,Groceries,Silver Card
-422,11/21/2018,Hardware Store,37.41,income,Home Improvement,Platinum Card
-423,11/23/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-424,11/26/2018,American Tavern,16.8,income,Alcohol & Bars,Silver Card
-425,11/26/2018,Internet Service Provider,74.99,income,Internet,Checking
-426,11/27/2018,Movie Theater,17,income,Movies & DVDs,Silver Card
-427,11/27/2018,American Tavern,28.4,income,Restaurants,Silver Card
-428,11/29/2018,outcome Card Payment,582.99,outcome,outcome Card Payment,Silver Card
-429,11/29/2018,outcome Card Payment,751.5,outcome,outcome Card Payment,Platinum Card
-430,11/30/2018,outcome Card Payment,582.99,income,outcome Card Payment,Checking
-431,11/30/2018,Grocery Store,6.27,income,Groceries,Silver Card
-432,12/1/2018,Grocery Store,5.64,income,Groceries,Silver Card
-433,12/1/2018,Brunch Restaurant,8,income,Restaurants,Silver Card
-434,12/1/2018,Amazon,13.13,income,Shopping,Platinum Card
-435,12/3/2018,BP,30.03,income,Gas & Fuel,Silver Card
-436,12/3/2018,Grocery Store,148.15,income,Groceries,Silver Card
-437,12/3/2018,Mortgage Payment,1209.18,income,Mortgage & Rent,Checking
-438,12/4/2018,Starbucks,3,income,Coffee Shops,Silver Card
-439,12/4/2018,Latin Restaurant,20.65,income,Fast Food,Platinum Card
-440,12/4/2018,Netflix,11.76,income,Movies & DVDs,Platinum Card
-441,12/6/2018,Grocery Store,21.38,income,Groceries,Platinum Card
-442,12/6/2018,Grocery Store,13.48,income,Groceries,Platinum Card
-443,12/6/2018,Gas Company,40,income,Utilities,Checking
-444,12/7/2018,Barbershop,30,income,Haircut,Platinum Card
-445,12/7/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-446,12/8/2018,Grocery Store,12.64,income,Groceries,Platinum Card
-447,12/9/2018,Spotify,10.69,income,Music,Platinum Card
-448,12/11/2018,Brunch Restaurant,10.29,income,Restaurants,Platinum Card
-449,12/12/2018,Phone Company,89.54,income,Mobile Phone,Checking
-450,12/13/2018,Thai Restaurant,27,income,Restaurants,Silver Card
-451,12/14/2018,Grocery Store,21.39,income,Groceries,Silver Card
-452,12/14/2018,Hardware Store,17.1,income,Home Improvement,Silver Card
-453,12/14/2018,Power Company,60,income,Utilities,Checking
-454,12/17/2018,American Tavern,63,income,Food & Dining,Silver Card
-455,12/17/2018,BP,20.01,income,Gas & Fuel,Silver Card
-456,12/17/2018,City Water Charges,35,income,Utilities,Checking
-457,12/18/2018,Starbucks,3,income,Coffee Shops,Silver Card
-458,12/18/2018,outcome Card Payment,311.02,outcome,outcome Card Payment,Platinum Card
-459,12/18/2018,outcome Card Payment,311.02,income,outcome Card Payment,Checking
-460,12/18/2018,Fancy Restaurant,56.52,income,Restaurants,Silver Card
-461,12/18/2018,Amazon,49.99,income,Shopping,Platinum Card
-462,12/18/2018,Amazon,41.72,income,Shopping,Platinum Card
-463,12/18/2018,Amazon,24.3,income,Shopping,Platinum Card
-464,12/19/2018,State Farm,75,income,Auto Insurance,Checking
-465,12/19/2018,Amazon,43.01,income,Shopping,Platinum Card
-466,12/20/2018,outcome Card Payment,464.03,outcome,outcome Card Payment,Silver Card
-467,12/20/2018,Shell,30.38,income,Gas & Fuel,Silver Card
-468,12/21/2018,outcome Card Payment,464.03,income,outcome Card Payment,Checking
-469,12/21/2018,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-470,12/22/2018,New York Deli,21.38,income,Fast Food,Platinum Card
-471,12/22/2018,Hardware Store,22.14,income,Home Improvement,Platinum Card
-472,12/23/2018,Hardware Store,28,income,Home Improvement,Platinum Card
-473,12/24/2018,Hardware Store,38.4,income,Home Improvement,Platinum Card
-474,12/26/2018,Chick-Fil-A,56.07,income,Fast Food,Platinum Card
-475,12/26/2018,Shell,32.47,income,Gas & Fuel,Platinum Card
-476,12/26/2018,Shell,7.48,income,Gas & Fuel,Platinum Card
-477,12/26/2018,Internet Service Provider,75.99,income,Internet,Checking
-478,12/26/2018,Amazon,44.99,income,Shopping,Platinum Card
-479,12/28/2018,Brewing Company,12,income,Alcohol & Bars,Silver Card
-480,12/29/2018,Brewing Company,14,income,Alcohol & Bars,Silver Card
-481,12/29/2018,outcome Card Payment,860.05,outcome,outcome Card Payment,Platinum Card
-482,12/29/2018,Grocery Store,55.04,income,Groceries,Silver Card
-483,1/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-484,1/2/2019,outcome Card Payment,499.6,income,outcome Card Payment,Checking
-485,1/3/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-486,1/3/2019,Amazon,42.1,income,Shopping,Platinum Card
-487,1/4/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-488,1/5/2019,American Tavern,23.49,income,Restaurants,Platinum Card
-489,1/8/2019,Gas Company,45,income,Utilities,Checking
-490,1/9/2019,outcome Card Payment,491.45,outcome,outcome Card Payment,Platinum Card
-491,1/9/2019,outcome Card Payment,491.45,income,outcome Card Payment,Checking
-492,1/9/2019,outcome Card Payment,281.84,income,outcome Card Payment,Checking
-493,1/9/2019,Spotify,10.69,income,Music,Platinum Card
-494,1/10/2019,Grocery Store,58.79,income,Groceries,Silver Card
-495,1/10/2019,Barbershop,30,income,Haircut,Silver Card
-496,1/10/2019,Phone Company,65,income,Mobile Phone,Checking
-497,1/14/2019,Shell,28.92,income,Gas & Fuel,Silver Card
-498,1/15/2019,Grocery Store,6.06,income,Groceries,Silver Card
-499,1/16/2019,City Water Charges,35,income,Utilities,Checking
-500,1/16/2019,Power Company,60,income,Utilities,Checking
-501,1/18/2019,State Farm,75,income,Auto Insurance,Checking
-502,1/18/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-503,1/21/2019,outcome Card Payment,277.99,outcome,outcome Card Payment,Silver Card
-504,1/22/2019,outcome Card Payment,277.99,income,outcome Card Payment,Checking
-505,1/24/2019,Grocery Store,21.06,income,Groceries,Silver Card
-506,1/24/2019,Amazon,11.7,income,Shopping,Platinum Card
-507,1/24/2019,Amazon,4.21,income,Shopping,Platinum Card
-508,1/25/2019,Internet Service Provider,75,income,Internet,Checking
-509,1/31/2019,outcome Card Payment,1900,income,outcome Card Payment,Checking
-510,1/31/2019,Shell,31.32,income,Gas & Fuel,Silver Card
-511,2/1/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-512,2/1/2019,Roadside Diner,9.47,income,Restaurants,Silver Card
-513,2/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-514,2/4/2019,Hardware Store,86.97,income,Home Improvement,Silver Card
-515,2/4/2019,Netflix,11.76,income,Television,Platinum Card
-516,2/5/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-517,2/7/2019,Gas Company,65,income,Utilities,Checking
-518,2/8/2019,Starbucks,3,income,Coffee Shops,Platinum Card
-519,2/8/2019,Thai Restaurant,27.47,income,Restaurants,Platinum Card
-520,2/9/2019,Spotify,10.69,income,Music,Platinum Card
-521,2/11/2019,Starbucks,3,income,Coffee Shops,Platinum Card
-522,2/11/2019,outcome Card Payment,133.95,income,outcome Card Payment,Checking
-523,2/11/2019,BP,24.01,income,Gas & Fuel,Platinum Card
-524,2/12/2019,Grocery Store,30.54,income,Groceries,Platinum Card
-525,2/12/2019,Phone Company,65,income,Mobile Phone,Checking
-526,2/13/2019,Grocery Store,8.21,income,Groceries,Platinum Card
-527,2/15/2019,outcome Card Payment,207.47,outcome,outcome Card Payment,Platinum Card
-528,2/15/2019,outcome Card Payment,207.47,income,outcome Card Payment,Checking
-529,2/15/2019,Grocery Store,4.59,income,Groceries,Platinum Card
-530,2/15/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-531,2/15/2019,Power Company,60,income,Utilities,Checking
-532,2/16/2019,Brewing Company,8,income,Alcohol & Bars,Platinum Card
-533,2/16/2019,American Tavern,32.75,income,Restaurants,Platinum Card
-534,2/16/2019,Amazon,37.45,income,Shopping,Platinum Card
-535,2/19/2019,outcome Card Payment,574.84,income,outcome Card Payment,Checking
-536,2/19/2019,City Water Charges,35,income,Utilities,Checking
-537,2/20/2019,State Farm,75,income,Auto Insurance,Checking
-538,2/20/2019,outcome Card Payment,292.54,outcome,outcome Card Payment,Silver Card
-539,2/20/2019,Barbershop,30,income,Haircut,Platinum Card
-540,2/21/2019,outcome Card Payment,292.54,income,outcome Card Payment,Checking
-541,2/21/2019,Grocery Store,46.96,income,Groceries,Silver Card
-542,2/25/2019,BP,33.8,income,Gas & Fuel,Silver Card
-543,2/25/2019,Internet Service Provider,75,income,Internet,Checking
-544,2/27/2019,Roadside Diner,25.77,income,Restaurants,Silver Card
-545,2/28/2019,Grocery Store,32.07,income,Groceries,Silver Card
-546,3/1/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-547,3/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-548,3/4/2019,Grocery Store,92.04,income,Groceries,Silver Card
-549,3/4/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-550,3/4/2019,Netflix,11.76,income,Television,Platinum Card
-551,3/5/2019,Fancy Restaurant,7,income,Restaurants,Silver Card
-552,3/6/2019,outcome Card Payment,491.86,income,outcome Card Payment,Checking
-553,3/8/2019,BP,34.08,income,Gas & Fuel,Platinum Card
-554,3/8/2019,Amazon,27.17,income,Shopping,Platinum Card
-555,3/8/2019,Gas Company,49,income,Utilities,Checking
-556,3/9/2019,Spotify,10.69,income,Music,Platinum Card
-557,3/12/2019,Phone Company,65,income,Mobile Phone,Checking
-558,3/12/2019,Bakery Place,3.02,income,Restaurants,Platinum Card
-559,3/13/2019,outcome Card Payment,532.86,outcome,outcome Card Payment,Platinum Card
-560,3/13/2019,outcome Card Payment,301.79,outcome,outcome Card Payment,Silver Card
-561,3/14/2019,outcome Card Payment,305.27,income,outcome Card Payment,Checking
-562,3/14/2019,outcome Card Payment,301.79,income,outcome Card Payment,Checking
-563,3/14/2019,Brunch Restaurant,8,income,Restaurants,Platinum Card
-564,3/15/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-565,3/15/2019,Power Company,60,income,Utilities,Checking
-566,3/18/2019,Best Buy,320.99,income,Electronics & Software,Platinum Card
-567,3/18/2019,Grocery Store,16.23,income,Groceries,Platinum Card
-568,3/19/2019,Amazon,13.84,income,Shopping,Platinum Card
-569,3/19/2019,City Water Charges,35,income,Utilities,Checking
-570,3/20/2019,State Farm,75,income,Auto Insurance,Checking
-571,3/22/2019,BP,37.51,income,Gas & Fuel,Platinum Card
-572,3/23/2019,Starbucks,5.2,income,Coffee Shops,Platinum Card
-573,3/25/2019,Internet Service Provider,75,income,Internet,Checking
-574,3/26/2019,Amazon,16.04,income,Shopping,Platinum Card
-575,3/27/2019,Brewing Company,49.63,income,Alcohol & Bars,Platinum Card
-576,3/27/2019,Grocery Store,4.46,income,Groceries,Platinum Card
-577,3/29/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-578,3/30/2019,Starbucks,12.84,income,Coffee Shops,Platinum Card
-579,3/31/2019,outcome Card Payment,957.6,outcome,outcome Card Payment,Platinum Card
-580,4/1/2019,outcome Card Payment,1552.65,income,outcome Card Payment,Checking
-581,4/1/2019,outcome Card Payment,600.51,outcome,outcome Card Payment,Platinum Card
-582,4/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-583,4/2/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-584,4/4/2019,Grocery Store,5.64,income,Groceries,Platinum Card
-585,4/4/2019,Amazon,35.9,income,Shopping,Platinum Card
-586,4/4/2019,Netflix,11.76,income,Television,Platinum Card
-587,4/6/2019,Amazon,27.54,income,Shopping,Platinum Card
-588,4/8/2019,Gas Company,30,income,Utilities,Checking
-589,4/9/2019,outcome Card Payment,436.75,income,outcome Card Payment,Checking
-590,4/9/2019,Grocery Store,10.7,income,Groceries,Platinum Card
-591,4/9/2019,Barbershop,30,income,Haircut,Platinum Card
-592,4/9/2019,Spotify,10.69,income,Music,Platinum Card
-593,4/10/2019,Phone Company,65,income,Mobile Phone,Checking
-594,4/12/2019,Best Buy,44.93,income,Electronics & Software,Silver Card
-595,4/12/2019,Grocery Store,41.34,income,Groceries,Platinum Card
-596,4/12/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-597,4/13/2019,QuikTrip,38.94,income,Gas & Fuel,Platinum Card
-598,4/13/2019,Grocery Store,16.87,income,Groceries,Platinum Card
-599,4/13/2019,Vietnamese Restaurant,20.64,income,Restaurants,Platinum Card
-600,4/15/2019,Power Company,60,income,Utilities,Checking
-601,4/16/2019,City Water Charges,35,income,Utilities,Checking
-602,4/18/2019,State Farm,75,income,Auto Insurance,Checking
-603,4/18/2019,outcome Card Payment,604.32,outcome,outcome Card Payment,Silver Card
-604,4/18/2019,outcome Card Payment,458.1,outcome,outcome Card Payment,Platinum Card
-605,4/19/2019,outcome Card Payment,604.32,income,outcome Card Payment,Checking
-606,4/19/2019,Grocery Store,10.89,income,Groceries,Platinum Card
-607,4/22/2019,Brewing Company,14.4,income,Alcohol & Bars,Silver Card
-608,4/22/2019,Greek Restaurant,64.52,income,Restaurants,Silver Card
-609,4/23/2019,Hardware Store,29.56,income,Home Improvement,Silver Card
-610,4/25/2019,Internet Service Provider,75,income,Internet,Checking
-611,4/26/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-612,4/27/2019,Brewing Company,40,income,Alcohol & Bars,Platinum Card
-613,4/27/2019,outcome Card Payment,268.96,outcome,outcome Card Payment,Silver Card
-614,4/27/2019,American Tavern,14.74,income,Restaurants,Silver Card
-615,4/29/2019,outcome Card Payment,268.96,income,outcome Card Payment,Checking
-616,4/29/2019,Grocery Store,5.64,income,Groceries,Platinum Card
-617,4/30/2019,BP,39.08,income,Gas & Fuel,Platinum Card
-618,5/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-619,5/2/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-620,5/3/2019,outcome Card Payment,758.07,income,outcome Card Payment,Checking
-621,5/4/2019,Netflix,13.9,income,Television,Platinum Card
-622,5/6/2019,Amazon,16.94,income,Shopping,Platinum Card
-623,5/7/2019,Amazon,38.56,income,Shopping,Platinum Card
-624,5/9/2019,Best Buy,331.69,income,Electronics & Software,Platinum Card
-625,5/9/2019,Spotify,10.69,income,Music,Platinum Card
-626,5/9/2019,Target,3.2,income,Shopping,Platinum Card
-627,5/9/2019,Gas Company,30,income,Utilities,Checking
-628,5/10/2019,Best Buy,21.39,income,Electronics & Software,Silver Card
-629,5/10/2019,Phone Company,65,income,Mobile Phone,Checking
-630,5/10/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-631,5/13/2019,outcome Card Payment,480.88,income,outcome Card Payment,Checking
-632,5/13/2019,QuikTrip,35.24,income,Gas & Fuel,Silver Card
-633,5/13/2019,Fancy Restaurant,98.19,income,Restaurants,Silver Card
-634,5/13/2019,Greek Restaurant,23.11,income,Restaurants,Silver Card
-635,5/14/2019,Grocery Store,2.02,income,Groceries,Silver Card
-636,5/15/2019,Power Company,60,income,Utilities,Checking
-637,5/17/2019,outcome Card Payment,575.33,outcome,outcome Card Payment,Platinum Card
-638,5/17/2019,City Water Charges,35,income,Utilities,Checking
-639,5/20/2019,State Farm,75,income,Auto Insurance,Checking
-640,5/20/2019,outcome Card Payment,415.47,income,outcome Card Payment,Checking
-641,5/20/2019,American Tavern,32.53,income,Restaurants,Silver Card
-642,5/24/2019,outcome Card Payment,765.68,outcome,outcome Card Payment,Silver Card
-643,5/24/2019,Hardware Store,27.96,income,Home Improvement,Platinum Card
-644,5/24/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-645,5/24/2019,Brunch Restaurant,8,income,Restaurants,Platinum Card
-646,5/25/2019,QuikTrip,36.76,income,Gas & Fuel,Platinum Card
-647,5/25/2019,Hardware Store,30.99,income,Home Improvement,Platinum Card
-648,5/27/2019,Mexican Restaurant,34.33,income,Restaurants,Platinum Card
-649,5/28/2019,outcome Card Payment,765.68,income,outcome Card Payment,Checking
-650,5/30/2019,Internet Service Provider,75,income,Internet,Checking
-651,5/30/2019,American Tavern,34.82,income,Restaurants,Platinum Card
-652,6/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-653,6/3/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-654,6/3/2019,outcome Card Payment,260.95,outcome,outcome Card Payment,Platinum Card
-655,6/3/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-656,6/4/2019,Barbershop,30,income,Haircut,Platinum Card
-657,6/4/2019,Netflix,13.9,income,Television,Platinum Card
-658,6/5/2019,Grocery Store,23,income,Groceries,Platinum Card
-659,6/5/2019,Mexican Restaurant,23.24,income,Restaurants,Platinum Card
-660,6/6/2019,Starbucks,3.75,income,Coffee Shops,Platinum Card
-661,6/6/2019,Grocery Store,5.64,income,Groceries,Platinum Card
-662,6/7/2019,outcome Card Payment,458.56,income,outcome Card Payment,Checking
-663,6/7/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-664,6/7/2019,Gas Company,30,income,Utilities,Checking
-665,6/9/2019,Spotify,10.69,income,Music,Platinum Card
-666,6/12/2019,Phone Company,65,income,Mobile Phone,Checking
-667,6/13/2019,outcome Card Payment,152.72,outcome,outcome Card Payment,Platinum Card
-668,6/13/2019,outcome Card Payment,152.72,income,outcome Card Payment,Checking
-669,6/14/2019,Grocery Store,10.69,income,Groceries,Silver Card
-670,6/15/2019,BP,33.16,income,Gas & Fuel,Silver Card
-671,6/17/2019,City Water Charges,35,income,Utilities,Checking
-672,6/17/2019,Power Company,60,income,Utilities,Checking
-673,6/18/2019,Brewing Company,15,income,Alcohol & Bars,Silver Card
-674,6/18/2019,Shell,41.83,income,Gas & Fuel,Silver Card
-675,6/19/2019,State Farm,75,income,Auto Insurance,Checking
-676,6/20/2019,outcome Card Payment,375.26,income,outcome Card Payment,Checking
-677,6/20/2019,Mike's Construction Co.,9200,income,Home Improvement,Checking
-678,6/20/2019,outcome Card Payment,100.68,outcome,outcome Card Payment,Silver Card
-679,6/21/2019,outcome Card Payment,100.68,income,outcome Card Payment,Checking
-680,6/21/2019,Biweekly Paycheck,2000,outcome,Paycheck,Checking
-681,6/24/2019,Brewing Company,15,income,Alcohol & Bars,Silver Card
-682,6/28/2019,BP,30.64,income,Gas & Fuel,Silver Card
-683,6/30/2019,Internet Service Provider,75,income,Internet,Checking
-684,7/1/2019,Starbucks,7,income,Coffee Shops,Silver Card
-685,7/1/2019,Grocery Store,99.47,income,Groceries,Silver Card
-686,7/1/2019,Hawaiian Grill,24.97,income,Restaurants,Silver Card
-687,7/1/2019,Thai Restaurant,24,income,Restaurants,Silver Card
-688,7/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-689,7/2/2019,Hardware Store,229.9,income,Home Improvement,Platinum Card
-690,7/2/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-691,7/4/2019,Netflix,13.9,income,Television,Platinum Card
-692,7/5/2019,Brewing Company,19,income,Alcohol & Bars,Silver Card
-693,7/5/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-694,7/6/2019,outcome Card Payment,220.08,outcome,outcome Card Payment,Silver Card
-695,7/6/2019,Grocery Store,92.98,income,Groceries,Platinum Card
-696,7/6/2019,Greek Restaurant,23.26,income,Restaurants,Platinum Card
-697,7/7/2019,Hardware Store,103.14,income,Home Improvement,Platinum Card
-698,7/8/2019,outcome Card Payment,305.28,income,outcome Card Payment,Checking
-699,7/8/2019,outcome Card Payment,220.08,income,outcome Card Payment,Checking
-700,7/9/2019,outcome Card Payment,549.72,outcome,outcome Card Payment,Platinum Card
-701,7/9/2019,Spotify,10.69,income,Music,Platinum Card
-702,7/10/2019,Phone Company,65,income,Mobile Phone,Checking
-703,7/10/2019,Gas Company,30,income,Utilities,Checking
-704,7/15/2019,Grocery Store,87.14,income,Groceries,Silver Card
-705,7/16/2019,Amazon,89.99,income,Shopping,Platinum Card
-706,7/16/2019,Power Company,60,income,Utilities,Checking
-707,7/17/2019,City Water Charges,35,income,Utilities,Checking
-708,7/18/2019,State Farm,75,income,Auto Insurance,Checking
-709,7/18/2019,outcome Card Payment,814.5,income,outcome Card Payment,Checking
-710,7/18/2019,BP,36.42,income,Gas & Fuel,Silver Card
-711,7/18/2019,Grocery Store,29.83,income,Groceries,Platinum Card
-712,7/18/2019,Brunch Restaurant,8.82,income,Restaurants,Platinum Card
-713,7/19/2019,outcome Card Payment,115.52,outcome,outcome Card Payment,Platinum Card
-714,7/19/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-715,7/19/2019,Mexican Restaurant,28,income,Restaurants,Platinum Card
-716,7/22/2019,outcome Card Payment,257.08,outcome,outcome Card Payment,Silver Card
-717,7/22/2019,Thai Restaurant,26.67,income,Restaurants,Silver Card
-718,7/23/2019,outcome Card Payment,257.08,income,outcome Card Payment,Checking
-719,7/24/2019,Starbucks,2.5,income,Coffee Shops,Silver Card
-720,7/27/2019,Barbershop,30,income,Haircut,Silver Card
-721,7/28/2019,Hardware Store,44.31,income,Home Improvement,Platinum Card
-722,7/29/2019,Grocery Store,5.35,income,Groceries,Platinum Card
-723,7/29/2019,Fancy Restaurant,44.92,income,Restaurants,Silver Card
-724,7/30/2019,Grocery Store,15.77,income,Groceries,Platinum Card
-725,7/30/2019,Internet Service Provider,75,income,Internet,Checking
-726,8/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-727,8/2/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-728,8/2/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-729,8/3/2019,BP,36.36,income,Gas & Fuel,Platinum Card
-730,8/3/2019,Grocery Store,3.96,income,Groceries,Platinum Card
-731,8/3/2019,American Tavern,23.47,income,Restaurants,Platinum Card
-732,8/4/2019,Netflix,13.9,income,Television,Platinum Card
-733,8/5/2019,Brewing Company,18,income,Alcohol & Bars,Silver Card
-734,8/5/2019,outcome Card Payment,349.28,outcome,outcome Card Payment,Platinum Card
-735,8/5/2019,outcome Card Payment,117.65,outcome,outcome Card Payment,Silver Card
-736,8/6/2019,outcome Card Payment,521.17,income,outcome Card Payment,Checking
-737,8/6/2019,outcome Card Payment,117.65,income,outcome Card Payment,Checking
-738,8/6/2019,Hardware Store,125,income,Home Improvement,Checking
-739,8/8/2019,Grocery Store,11.72,income,Groceries,Silver Card
-740,8/9/2019,Spotify,10.69,income,Music,Platinum Card
-741,8/9/2019,Gas Company,30,income,Utilities,Checking
-742,8/12/2019,Phone Company,65,income,Mobile Phone,Checking
-743,8/12/2019,Thai Restaurant,26.67,income,Restaurants,Silver Card
-744,8/14/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-745,8/15/2019,outcome Card Payment,335.2,income,outcome Card Payment,Checking
-746,8/15/2019,Power Company,60,income,Utilities,Checking
-747,8/16/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-748,8/16/2019,City Water Charges,35,income,Utilities,Checking
-749,8/17/2019,outcome Card Payment,87.17,outcome,outcome Card Payment,Platinum Card
-750,8/17/2019,Grocery Store,33.15,income,Groceries,Platinum Card
-751,8/17/2019,Barbershop,19,income,Haircut,Platinum Card
-752,8/17/2019,American Tavern,3.5,income,Restaurants,Platinum Card
-753,8/19/2019,outcome Card Payment,1248.95,income,outcome Card Payment,Checking
-754,8/20/2019,State Farm,75,income,Auto Insurance,Checking
-755,8/20/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-756,8/21/2019,Shell,34.69,income,Gas & Fuel,Platinum Card
-757,8/23/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-758,8/25/2019,Brunch Restaurant,39.43,income,Restaurants,Platinum Card
-759,8/26/2019,Hardware Store,66.75,income,Home Improvement,Silver Card
-760,8/29/2019,Starbucks,3,income,Coffee Shops,Platinum Card
-761,8/30/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-762,8/30/2019,Internet Service Provider,75,income,Internet,Checking
-763,8/30/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-764,8/31/2019,Hardware Store,68.04,income,Home Improvement,Platinum Card
-765,8/31/2019,BBQ Restaurant,41.78,income,Restaurants,Silver Card
-766,9/1/2019,Amazon,13.09,income,Shopping,Platinum Card
-767,9/3/2019,Mortgage Payment,1100,income,Mortgage & Rent,Checking
-768,9/3/2019,Fancy Restaurant,41.24,income,Restaurants,Silver Card
-769,9/4/2019,Netflix,13.9,income,Television,Platinum Card
-770,9/5/2019,Starbucks,3.75,income,Coffee Shops,Platinum Card
-771,9/6/2019,outcome Card Payment,1390.37,outcome,outcome Card Payment,Platinum Card
-772,9/6/2019,outcome Card Payment,1390.37,income,outcome Card Payment,Checking
-773,9/6/2019,outcome Card Payment,502.75,income,outcome Card Payment,Checking
-774,9/7/2019,Brewing Company,12.87,income,Alcohol & Bars,Platinum Card
-775,9/8/2019,Brewing Company,19.3,income,Alcohol & Bars,Platinum Card
-776,9/9/2019,Shell,28.77,income,Gas & Fuel,Platinum Card
-777,9/9/2019,Grocery Store,65.09,income,Groceries,Silver Card
-778,9/9/2019,Hardware Store,26.25,income,Home Improvement,Silver Card
-779,9/9/2019,Spotify,10.69,income,Music,Platinum Card
-780,9/9/2019,Gas Company,30,income,Utilities,Checking
-781,9/11/2019,outcome Card Payment,360.56,outcome,outcome Card Payment,Silver Card
-782,9/11/2019,Phone Company,65,income,Mobile Phone,Checking
-783,9/12/2019,outcome Card Payment,360.56,income,outcome Card Payment,Checking
-784,9/13/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-785,9/13/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-786,9/14/2019,Grocery Store,46.44,income,Groceries,Platinum Card
-787,9/15/2019,Amazon,47.66,income,Shopping,Platinum Card
-788,9/16/2019,outcome Card Payment,90.57,income,outcome Card Payment,Checking
-789,9/16/2019,outcome Card Payment,90.57,outcome,outcome Card Payment,Silver Card
-790,9/16/2019,City Water Charges,35,income,Utilities,Checking
-791,9/17/2019,outcome Card Payment,186.13,outcome,outcome Card Payment,Platinum Card
-792,9/17/2019,Power Company,60,income,Utilities,Checking
-793,9/18/2019,State Farm,75,income,Auto Insurance,Checking
-794,9/18/2019,outcome Card Payment,1606.46,income,outcome Card Payment,Checking
-795,9/19/2019,Brewing Company,40.81,income,Alcohol & Bars,Platinum Card
-796,9/19/2019,Starbucks,2.75,income,Coffee Shops,Platinum Card
-797,9/20/2019,outcome Card Payment,9.43,outcome,outcome Card Payment,Silver Card
-798,9/22/2019,Seafood Restaurant,131.1,income,Restaurants,Platinum Card
-799,9/23/2019,outcome Card Payment,9.43,income,outcome Card Payment,Checking
-800,9/23/2019,Grocery Store,27.71,income,Groceries,Platinum Card
-801,9/23/2019,Amazon,24.63,income,Shopping,Platinum Card
-802,9/27/2019,Biweekly Paycheck,2250,outcome,Paycheck,Checking
-803,9/28/2019,BP,33.46,income,Gas & Fuel,Platinum Card
-804,9/28/2019,Sheetz,4.27,income,Gas & Fuel,Platinum Card
-805,9/30/2019,Starbucks,1.75,income,Coffee Shops,Platinum Card
-806,9/30/2019,Internet Service Provider,75,income,Internet,Checking
+1,1/1/2018,Amazon,11.11,outcome,Shopping,Platinum Card
+2,1/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+3,1/2/2018,Thai Restaurant,24.22,outcome,Restaurants,Silver Card
+4,1/3/2018,income Card Payment,2298.09,income,income Card Payment,Platinum Card
+5,1/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+6,1/5/2018,American Tavern,25.85,outcome,Restaurants,Silver Card
+7,1/6/2018,Hardware Store,18.45,outcome,Home Improvement,Silver Card
+8,1/8/2018,Gas Company,45,outcome,Utilities,Checking
+9,1/8/2018,Hardware Store,15.38,outcome,Home Improvement,Silver Card
+10,1/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+11,1/10/2018,Phone Company,89.46,outcome,Mobile Phone,Checking
+12,1/11/2018,Shell,34.87,outcome,Gas & Fuel,Platinum Card
+13,1/11/2018,Grocery Store,43.54,outcome,Groceries,Platinum Card
+14,1/12/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+15,1/13/2018,Pizza Place,32.91,outcome,Fast Food,Platinum Card
+16,1/13/2018,Amazon,39.05,outcome,Shopping,Platinum Card
+17,1/15/2018,Grocery Store,44.19,outcome,Groceries,Silver Cardf
+18,1/15/2018,American Tavern,64.11,outcome,Restaurants,Silver Card
+19,1/16/2018,City Water Charges,35,outcome,Utilities,Checking
+20,1/16/2018,Power Company,60,outcome,Utilities,Checking
+21,1/19/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+22,1/20/2018,Amazon,50.21,outcome,Shopping,Platinum Card
+23,1/22/2018,income Card Payment,554.99,income,income Card Payment,Platinum Card
+24,1/22/2018,income Card Payment,309.81,income,income Card Payment,Silver Card
+25,1/22/2018,income Card Payment,554.99,outcome,income Card Payment,Checking
+26,1/22/2018,Hardware Store,17.38,outcome,Home Improvement,Silver Card
+27,1/23/2018,income Card Payment,309.81,outcome,income Card Payment,Checking
+28,1/24/2018,Starbucks,3,outcome,Coffee Shops,Platinum Card
+29,1/25/2018,Internet Service Provider,69.99,outcome,Internet,Checking
+30,1/29/2018,Shell,30.42,outcome,Gas & Fuel,Silver Card
+31,1/29/2018,Thai Restaurant,25,outcome,Restaurants,Silver Card
+32,1/29/2018,Brunch Restaurant,17.62,outcome,Restaurants,Platinum Card
+33,2/1/2018,Grocery Store,27.79,outcome,Groceries,Platinum Card
+34,2/1/2018,Amazon,11.11,outcome,Shopping,Platinum Card
+35,2/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+36,2/2/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+37,2/3/2018,Japanese Restaurant,57.02,outcome,Restaurants,Platinum Card
+38,2/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+39,2/5/2018,income Card Payment,145.14,income,income Card Payment,Platinum Card
+40,2/6/2018,income Card Payment,154.13,income,income Card Payment,Silver Card
+41,2/7/2018,income Card Payment,154.13,outcome,income Card Payment,Checking
+42,2/7/2018,Gas Company,65,outcome,Utilities,Checking
+43,2/9/2018,Barbershop,30,outcome,Haircut,Platinum Card
+44,2/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+45,2/10/2018,Bojangles,10.66,outcome,Fast Food,Platinum Card
+46,2/11/2018,Fancy Restaurant,106.8,outcome,Restaurants,Platinum Card
+47,2/12/2018,Shell,36.47,outcome,Gas & Fuel,Silver Card
+48,2/12/2018,Phone Company,89.52,outcome,Mobile Phone,Checking
+49,2/14/2018,Brewing Company,14,outcome,Alcohol & Bars,Silver Card
+50,2/15/2018,American Tavern,10,outcome,Restaurants,Platinum Card
+51,2/15/2018,Power Company,60,outcome,Utilities,Checking
+52,2/16/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+53,2/16/2018,Brunch Restaurant,8,outcome,Restaurants,Silver Card
+54,2/16/2018,City Water Charges,35,outcome,Utilities,Checking
+55,2/20/2018,Grocery Store,35.95,outcome,Groceries,Silver Card
+56,2/20/2018,Mexican Restaurant,23.51,outcome,Restaurants,Silver Card
+57,2/21/2018,Starbucks,2,outcome,Coffee Shops,Platinum Card
+58,2/22/2018,Starbucks,4,outcome,Coffee Shops,Silver Card
+59,2/26/2018,income Card Payment,765.37,income,income Card Payment,Platinum Card
+60,2/26/2018,income Card Payment,156.11,income,income Card Payment,Silver Card
+61,2/26/2018,income Card Payment,765.37,outcome,income Card Payment,Checking
+62,2/26/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+63,2/26/2018,American Tavern,85.52,outcome,Restaurants,Silver Card
+64,2/26/2018,Gas Station,32.21,outcome,Gas & Fuel,Silver Card
+65,2/27/2018,income Card Payment,156.11,outcome,income Card Payment,Checking
+66,3/1/2018,Grocery Store,32.07,outcome,Groceries,Silver Card
+67,3/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+68,3/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+69,3/2/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+70,3/3/2018,Grocery Store,23.74,outcome,Groceries,Silver Card
+71,3/4/2018,Grocery Store,10.69,outcome,Groceries,Platinum Card
+72,3/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+73,3/4/2018,BBQ Restaurant,42.24,outcome,Restaurants,Platinum Card
+74,3/5/2018,Starbucks,3,outcome,Coffee Shops,Platinum Card
+75,3/5/2018,income Card Payment,761.59,income,income Card Payment,Silver Card
+76,3/5/2018,income Card Payment,761.59,outcome,income Card Payment,Checking
+77,3/7/2018,Starbucks,3.5,outcome,Coffee Shops,Platinum Card
+78,3/8/2018,BP,34.9,outcome,Gas & Fuel,Platinum Card
+79,3/8/2018,Gas Company,52,outcome,Utilities,Checking
+80,3/9/2018,Grocery Store,20.72,outcome,Groceries,Platinum Card
+81,3/9/2018,Grocery Store,5.09,outcome,Groceries,Platinum Card
+82,3/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+83,3/12/2018,Grocery Store,19.35,outcome,Groceries,Platinum Card
+84,3/12/2018,Phone Company,89.52,outcome,Mobile Phone,Checking
+85,3/13/2018,Amazon,45.75,outcome,Shopping,Platinum Card
+86,3/14/2018,Grocery Store,22.5,outcome,Groceries,Platinum Card
+87,3/14/2018,Brunch Restaurant,8.49,outcome,Restaurants,Platinum Card
+88,3/15/2018,Starbucks,3.5,outcome,Coffee Shops,Platinum Card
+89,3/15/2018,Power Company,60,outcome,Utilities,Checking
+90,3/16/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+91,3/17/2018,Brewing Company,19.5,outcome,Alcohol & Bars,Silver Card
+92,3/17/2018,Pizza Place,23.34,outcome,Fast Food,Platinum Card
+93,3/19/2018,Mediterranean Restaurant,36.48,outcome,Restaurants,Silver Card
+94,3/19/2018,City Water Charges,35,outcome,Utilities,Checking
+95,3/20/2018,Amazon,14.97,outcome,Shopping,Platinum Card
+96,3/22/2018,BP,30.55,outcome,Gas & Fuel,Silver Card
+97,3/23/2018,income Card Payment,559.91,income,income Card Payment,Platinum Card
+98,3/23/2018,income Card Payment,559.91,outcome,income Card Payment,Checking
+99,3/23/2018,Grocery Store,11.76,outcome,Groceries,Silver Card
+100,3/26/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+101,3/28/2018,Grocery Store,16.06,outcome,Groceries,Silver Card
+102,3/28/2018,Pizza Place,24.98,outcome,Restaurants,Silver Card
+103,3/29/2018,Steakhouse,17.64,outcome,Restaurants,Silver Card
+104,3/30/2018,Grocery Store,9.09,outcome,Groceries,Silver Card
+105,3/30/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+106,3/31/2018,Belgian Restaurant,38.32,outcome,Restaurants,Platinum Card
+107,3/31/2018,Chili's,24.74,outcome,Restaurants,Platinum Card
+108,3/31/2018,Greek Restaurant,41.16,outcome,Restaurants,Silver Card
+109,4/1/2018,Grocery Store,80.79,outcome,Groceries,Platinum Card
+110,4/1/2018,Brewing Company,59.48,outcome,Restaurants,Platinum Card
+111,4/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+112,4/2/2018,income Card Payment,817.14,income,income Card Payment,Silver Card
+113,4/2/2018,income Card Payment,817.14,outcome,income Card Payment,Checking
+114,4/2/2018,Grocery Store,82.36,outcome,Groceries,Platinum Card
+115,4/2/2018,Hardware Store,13.89,outcome,Home Improvement,Platinum Card
+116,4/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+117,4/3/2018,Amazon Video,6.41,outcome,Movies & DVDs,Platinum Card
+118,4/4/2018,income Card Payment,363.08,income,income Card Payment,Platinum Card
+119,4/4/2018,income Card Payment,363.08,outcome,income Card Payment,Checking
+120,4/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+121,4/6/2018,Chevron,4.58,outcome,Gas & Fuel,Platinum Card
+122,4/6/2018,Tiny Deli,9.76,outcome,Restaurants,Platinum Card
+123,4/8/2018,Irish Pub,22,outcome,Restaurants,Platinum Card
+124,4/9/2018,Blue Sky Market,6.48,outcome,Groceries,Silver Card
+125,4/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+126,4/9/2018,Gas Company,30,outcome,Utilities,Checking
+127,4/11/2018,Phone Company,89.52,outcome,Mobile Phone,Checking
+128,4/12/2018,Starbucks,7,outcome,Coffee Shops,Platinum Card
+129,4/12/2018,Barbershop,30,outcome,Haircut,Platinum Card
+130,4/13/2018,BP,37.98,outcome,Gas & Fuel,Platinum Card
+131,4/13/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+132,4/13/2018,American Tavern,10.66,outcome,Restaurants,Platinum Card
+133,4/14/2018,Hardware Store,11.61,outcome,Home Improvement,Platinum Card
+134,4/14/2018,American Tavern,41,outcome,Restaurants,Platinum Card
+135,4/16/2018,State Farm,75,outcome,Auto Insurance,Checking
+136,4/16/2018,City Water Charges,35,outcome,Utilities,Checking
+137,4/18/2018,Power Company,60,outcome,Utilities,Checking
+138,4/20/2018,Thai Restaurant,24.22,outcome,Restaurants,Silver Card
+139,4/21/2018,Grocery Store,4.32,outcome,Groceries,Silver Card
+140,4/21/2018,American Tavern,35.15,outcome,Restaurants,Silver Card
+141,4/22/2018,Grocery Store,21.32,outcome,Groceries,Platinum Card
+142,4/23/2018,Hardware Store,42.7,outcome,Home Improvement,Silver Card
+143,4/24/2018,Hardware Store,224.7,outcome,Home Improvement,Platinum Card
+144,4/24/2018,Amazon,41.34,outcome,Shopping,Platinum Card
+145,4/25/2018,Hardware Store,210.79,outcome,Home Improvement,Silver Card
+146,4/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+147,4/26/2018,income Card Payment,769.72,income,income Card Payment,Silver Card
+148,4/26/2018,income Card Payment,1216.94,income,income Card Payment,Platinum Card
+149,4/26/2018,income Card Payment,1216.94,outcome,income Card Payment,Checking
+150,4/27/2018,income Card Payment,769.72,outcome,income Card Payment,Checking
+151,4/27/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+152,4/28/2018,Grocery Store,22.98,outcome,Groceries,Silver Card
+153,4/29/2018,QuikTrip,39,outcome,Gas & Fuel,Platinum Card
+154,4/29/2018,Grocery Store,51.05,outcome,Groceries,Platinum Card
+155,4/29/2018,Hardware Store,68.47,outcome,Home Improvement,Platinum Card
+156,4/30/2018,Grocery Store,5.09,outcome,Groceries,Platinum Card
+157,5/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+158,5/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+159,5/3/2018,Amazon,49.72,outcome,Shopping,Platinum Card
+160,5/4/2018,Grocery Store,42.23,outcome,Groceries,Platinum Card
+161,5/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+162,5/5/2018,Bojangles,7.27,outcome,Fast Food,Platinum Card
+163,5/5/2018,Pizza Place,20.52,outcome,Fast Food,Platinum Card
+164,5/6/2018,Hardware Store,22.37,outcome,Home Improvement,Platinum Card
+165,5/6/2018,Amazon,117.69,outcome,Shopping,Platinum Card
+166,5/9/2018,income Card Payment,601.4,income,income Card Payment,Platinum Card
+167,5/9/2018,income Card Payment,601.4,outcome,income Card Payment,Checking
+168,5/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+169,5/9/2018,Gas Company,30,outcome,Utilities,Checking
+170,5/10/2018,Phone Company,111.18,outcome,Mobile Phone,Checking
+171,5/11/2018,Grocery Store,57.32,outcome,Groceries,Platinum Card
+172,5/11/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+173,5/11/2018,Mike's Construction Co.,8000,outcome,Home Improvement,Checking
+174,5/12/2018,Liquor Store,27.77,outcome,Alcohol & Bars,Platinum Card
+175,5/12/2018,Shell,33.3,outcome,Gas & Fuel,Platinum Card
+176,5/12/2018,Fancy Restaurant,78,outcome,Restaurants,Platinum Card
+177,5/14/2018,Grocery Store,67.63,outcome,Groceries,Silver Card
+178,5/15/2018,Power Company,60,outcome,Utilities,Checking
+179,5/17/2018,Barbershop,29,outcome,Haircut,Silver Card
+180,5/17/2018,City Water Charges,35,outcome,Utilities,Checking
+181,5/18/2018,State Farm,75,outcome,Auto Insurance,Checking
+182,5/18/2018,Amazon,6.41,outcome,Shopping,Platinum Card
+183,5/19/2018,income Card Payment,207.08,income,income Card Payment,Platinum Card
+184,5/19/2018,Grocery Store,31,outcome,Groceries,Silver Card
+185,5/19/2018,Greek Restaurant,23.26,outcome,Restaurants,Silver Card
+186,5/21/2018,income Card Payment,283.07,income,income Card Payment,Silver Card
+187,5/21/2018,Thai Restaurant,26.04,outcome,Restaurants,Silver Card
+188,5/21/2018,Amazon,32.5,outcome,Shopping,Platinum Card
+189,5/22/2018,income Card Payment,283.07,outcome,income Card Payment,Checking
+190,5/24/2018,BP,39.44,outcome,Gas & Fuel,Silver Card
+191,5/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+192,5/25/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+193,5/28/2018,Movie Theater,9.62,outcome,Entertainment,Silver Card
+194,5/28/2018,Grocery Store,91.03,outcome,Groceries,Silver Card
+195,5/29/2018,Movie Theater,20,outcome,Movies & DVDs,Silver Card
+196,5/29/2018,Movie Theater,6.25,outcome,Movies & DVDs,Silver Card
+197,6/1/2018,BP,38.63,outcome,Gas & Fuel,Platinum Card
+198,6/1/2018,Grocery Store,6.11,outcome,Groceries,Platinum Card
+199,6/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+200,6/2/2018,income Card Payment,235.18,income,income Card Payment,Silver Card
+201,6/2/2018,income Card Payment,466.36,income,income Card Payment,Platinum Card
+202,6/3/2018,Italian Restaurant,65.81,outcome,Restaurants,Platinum Card
+203,6/4/2018,income Card Payment,235.18,outcome,income Card Payment,Checking
+204,6/4/2018,Grocery Store,24.12,outcome,Groceries,Platinum Card
+205,6/4/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+206,6/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+207,6/6/2018,Starbucks,4,outcome,Coffee Shops,Platinum Card
+208,6/8/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+209,6/8/2018,Gas Company,30,outcome,Utilities,Checking
+210,6/9/2018,Chick-Fil-A,16.18,outcome,Fast Food,Platinum Card
+211,6/9/2018,Grocery Store,9.56,outcome,Groceries,Platinum Card
+212,6/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+213,6/10/2018,Grocery Store,46.01,outcome,Groceries,Platinum Card
+214,6/12/2018,Grocery Store,12.55,outcome,Groceries,Platinum Card
+215,6/12/2018,Phone Company,89.46,outcome,Mobile Phone,Checking
+216,6/14/2018,income Card Payment,283.44,income,income Card Payment,Platinum Card
+217,6/14/2018,income Card Payment,283.44,outcome,income Card Payment,Checking
+218,6/14/2018,Grocery Store,7.02,outcome,Groceries,Platinum Card
+219,6/15/2018,Power Company,60,outcome,Utilities,Checking
+220,6/16/2018,Starbucks,3,outcome,Coffee Shops,Platinum Card
+221,6/16/2018,Pizza Place,22.66,outcome,Fast Food,Platinum Card
+222,6/16/2018,Grocery Store,13.9,outcome,Groceries,Platinum Card
+223,6/18/2018,City Water Charges,35,outcome,Utilities,Checking
+224,6/19/2018,Shell,38.52,outcome,Gas & Fuel,Platinum Card
+225,6/19/2018,Grocery Store,2.69,outcome,Groceries,Platinum Card
+226,6/20/2018,State Farm,75,outcome,Auto Insurance,Checking
+227,6/20/2018,income Card Payment,89.45,income,income Card Payment,Silver Card
+228,6/20/2018,Barbershop,30,outcome,Haircut,Silver Card
+229,6/21/2018,income Card Payment,89.45,outcome,income Card Payment,Checking
+230,6/22/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+231,6/23/2018,Brunch Restaurant,8.5,outcome,Restaurants,Silver Card
+232,6/23/2018,Amazon,74.97,outcome,Shopping,Platinum Card
+233,6/25/2018,income Card Payment,942.76,income,income Card Payment,Platinum Card
+234,6/25/2018,income Card Payment,942.76,outcome,income Card Payment,Checking
+235,6/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+236,6/26/2018,Grocery Store,9.62,outcome,Groceries,Silver Card
+237,6/27/2018,Starbucks,3.5,outcome,Coffee Shops,Silver Card
+238,6/27/2018,Pizza Place,22.66,outcome,Fast Food,Platinum Card
+239,6/28/2018,Grocery Store,7.57,outcome,Groceries,Silver Card
+240,7/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+241,7/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+242,7/2/2018,Movie Theater,25,outcome,Movies & DVDs,Silver Card
+243,7/2/2018,American Tavern,36.44,outcome,Restaurants,Silver Card
+244,7/4/2018,BP,34.48,outcome,Gas & Fuel,Silver Card
+245,7/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+246,7/5/2018,Grocery Store,44.25,outcome,Groceries,Silver Card
+247,7/5/2018,Amazon,212.32,outcome,Shopping,Platinum Card
+248,7/6/2018,Amazon Video,6.41,outcome,Movies & DVDs,Platinum Card
+249,7/6/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+250,7/8/2018,income Card Payment,259.87,income,income Card Payment,Platinum Card
+251,7/9/2018,income Card Payment,242.16,income,income Card Payment,Silver Card
+252,7/9/2018,income Card Payment,259.87,outcome,income Card Payment,Checking
+253,7/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+254,7/10/2018,income Card Payment,242.16,outcome,income Card Payment,Checking
+255,7/10/2018,Grocery Store,5.39,outcome,Groceries,Silver Card
+256,7/10/2018,Gas Company,30,outcome,Utilities,Checking
+257,7/11/2018,Phone Company,89.46,outcome,Mobile Phone,Checking
+258,7/14/2018,Go Mart,33.51,outcome,Gas & Fuel,Silver Card
+259,7/15/2018,Circle K,36.24,outcome,Gas & Fuel,Platinum Card
+260,7/17/2018,Wendy's,15.23,outcome,Fast Food,Silver Card
+261,7/17/2018,City Water Charges,35,outcome,Utilities,Checking
+262,7/17/2018,Power Company,60,outcome,Utilities,Checking
+263,7/18/2018,Irish Restaurant,28.54,outcome,Alcohol & Bars,Platinum Card
+264,7/18/2018,State Farm,75,outcome,Auto Insurance,Checking
+265,7/20/2018,income Card Payment,61.43,income,income Card Payment,Silver Card
+266,7/20/2018,income Card Payment,102.88,income,income Card Payment,Platinum Card
+267,7/20/2018,income Card Payment,102.88,outcome,income Card Payment,Checking
+268,7/20/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+269,7/21/2018,Grocery Store,28.93,outcome,Groceries,Platinum Card
+270,7/21/2018,Barbershop,30,outcome,Haircut,Platinum Card
+271,7/23/2018,income Card Payment,61.43,outcome,income Card Payment,Checking
+272,7/23/2018,Starbucks,9.58,outcome,Fast Food,Platinum Card
+273,7/24/2018,American Tavern,26.59,outcome,Restaurants,Platinum Card
+274,7/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+275,7/26/2018,Conoco,33.67,outcome,Gas & Fuel,Silver Card
+276,7/28/2018,Grocery Store,7.61,outcome,Groceries,Silver Card
+277,7/30/2018,American Tavern,34.38,outcome,Restaurants,Silver Card
+278,7/31/2018,Brewing Company,6.6,outcome,Alcohol & Bars,Silver Card
+279,8/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+280,8/2/2018,income Card Payment,816.27,income,income Card Payment,Platinum Card
+281,8/2/2018,Shell,40.44,outcome,Gas & Fuel,Silver Card
+282,8/2/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+283,8/3/2018,Grocery Store,6.27,outcome,Groceries,Silver Card
+284,8/3/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+285,8/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+286,8/6/2018,Amazon,76.47,outcome,Shopping,Platinum Card
+287,8/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+288,8/9/2018,Gas Company,30,outcome,Utilities,Checking
+289,8/10/2018,Phone Company,89.4,outcome,Mobile Phone,Checking
+290,8/11/2018,Chick-Fil-A,13.67,outcome,Fast Food,Platinum Card
+291,8/11/2018,Valero,33.66,outcome,Gas & Fuel,Platinum Card
+292,8/15/2018,income Card Payment,269.56,income,income Card Payment,Silver Card
+293,8/15/2018,income Card Payment,159.38,income,income Card Payment,Platinum Card
+294,8/15/2018,Shell,41.07,outcome,Gas & Fuel,Platinum Card
+295,8/15/2018,Grocery Store,5.64,outcome,Groceries,Platinum Card
+296,8/15/2018,Power Company,60,outcome,Utilities,Checking
+297,8/16/2018,income Card Payment,269.56,outcome,income Card Payment,Checking
+298,8/16/2018,City Water Charges,35,outcome,Utilities,Checking
+299,8/17/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+300,8/17/2018,Amazon,14.98,outcome,Shopping,Platinum Card
+301,8/18/2018,Amazon,23.47,outcome,Shopping,Platinum Card
+302,8/20/2018,State Farm,75,outcome,Auto Insurance,Checking
+303,8/21/2018,income Card Payment,34.18,income,income Card Payment,Silver Card
+304,8/21/2018,income Card Payment,99.76,income,income Card Payment,Platinum Card
+305,8/21/2018,income Card Payment,99.76,outcome,income Card Payment,Checking
+306,8/22/2018,income Card Payment,34.18,outcome,income Card Payment,Checking
+307,8/24/2018,American Tavern,42.31,outcome,Restaurants,Platinum Card
+308,8/27/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+309,8/30/2018,Shell,35.65,outcome,Gas & Fuel,Platinum Card
+310,8/31/2018,Grocery Store,11.64,outcome,Groceries,Platinum Card
+311,8/31/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+312,9/1/2018,Brewing Company,47.4,outcome,Alcohol & Bars,Platinum Card
+313,9/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+314,9/2/2018,Amazon,109.83,outcome,Shopping,Platinum Card
+315,9/4/2018,income Card Payment,687.29,income,income Card Payment,Platinum Card
+316,9/4/2018,income Card Payment,687.29,outcome,income Card Payment,Checking
+317,9/4/2018,Mortgage Payment,1247.44,outcome,Mortgage & Rent,Checking
+318,9/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+319,9/7/2018,Gas Company,30,outcome,Utilities,Checking
+320,9/9/2018,Brewing Company,18,outcome,Alcohol & Bars,Platinum Card
+321,9/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+322,9/11/2018,BP,38.86,outcome,Gas & Fuel,Platinum Card
+323,9/11/2018,Grocery Store,7.87,outcome,Groceries,Platinum Card
+324,9/12/2018,Grocery Store,47.16,outcome,Groceries,Platinum Card
+325,9/12/2018,Phone Company,89.4,outcome,Mobile Phone,Checking
+326,9/13/2018,Grocery Store,5.64,outcome,Groceries,Platinum Card
+327,9/14/2018,income Card Payment,134.34,income,income Card Payment,Platinum Card
+328,9/14/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+329,9/17/2018,Grocery Store,10.17,outcome,Groceries,Platinum Card
+330,9/17/2018,Grocery Store,8.8,outcome,Groceries,Platinum Card
+331,9/17/2018,City Water Charges,35,outcome,Utilities,Checking
+332,9/18/2018,Grocery Store,4.32,outcome,Groceries,Platinum Card
+333,9/18/2018,Power Company,60,outcome,Utilities,Checking
+334,9/19/2018,State Farm,75,outcome,Auto Insurance,Checking
+335,9/19/2018,Barbershop,30,outcome,Haircut,Platinum Card
+336,9/20/2018,Amazon,47.38,outcome,Shopping,Platinum Card
+337,9/22/2018,Hardware Store,69.4,outcome,Home Improvement,Platinum Card
+338,9/22/2018,Hardware Store,6.83,outcome,Home Improvement,Platinum Card
+339,9/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+340,9/25/2018,Sushi Restaurant,48.64,outcome,Restaurants,Silver Card
+341,9/26/2018,Starbucks,5,outcome,Coffee Shops,Platinum Card
+342,9/26/2018,Exxon,38,outcome,Gas & Fuel,Silver Card
+343,9/27/2018,Valero,40.71,outcome,Gas & Fuel,Platinum Card
+344,9/28/2018,income Card Payment,128.12,income,income Card Payment,Silver Card
+345,9/28/2018,income Card Payment,284.96,income,income Card Payment,Platinum Card
+346,9/28/2018,income Card Payment,284.96,outcome,income Card Payment,Checking
+347,9/28/2018,Grocery Store,13.36,outcome,Groceries,Platinum Card
+348,9/28/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+349,9/29/2018,Greek Restaurant,23.26,outcome,Restaurants,Platinum Card
+350,9/29/2018,German Restaurant,46.7,outcome,Restaurants,Platinum Card
+351,10/1/2018,Starbucks,3,outcome,Coffee Shops,Platinum Card
+352,10/1/2018,income Card Payment,128.12,outcome,income Card Payment,Checking
+353,10/1/2018,Grocery Store,15.66,outcome,Groceries,Platinum Card
+354,10/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+355,10/2/2018,income Card Payment,124.03,income,income Card Payment,Platinum Card
+356,10/2/2018,income Card Payment,124.03,outcome,income Card Payment,Checking
+357,10/2/2018,Mortgage Payment,1209.18,outcome,Mortgage & Rent,Checking
+358,10/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+359,10/6/2018,American Tavern,27,outcome,Restaurants,Silver Card
+360,10/8/2018,Shell,38.06,outcome,Gas & Fuel,Silver Card
+361,10/8/2018,Hardware Store,80.65,outcome,Home Improvement,Silver Card
+362,10/8/2018,Hardware Store,31.2,outcome,Home Improvement,Silver Card
+363,10/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+364,10/9/2018,Amazon,19.98,outcome,Shopping,Platinum Card
+365,10/9/2018,Gas Company,30,outcome,Utilities,Checking
+366,10/10/2018,Grocery Store,53.68,outcome,Groceries,Silver Card
+367,10/11/2018,Phone Company,89.4,outcome,Mobile Phone,Checking
+368,10/12/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+369,10/16/2018,Power Company,60,outcome,Utilities,Checking
+370,10/17/2018,City Water Charges,35,outcome,Utilities,Checking
+371,10/18/2018,State Farm,75,outcome,Auto Insurance,Checking
+372,10/18/2018,Grocery Store,33.55,outcome,Groceries,Platinum Card
+373,10/18/2018,Hardware Store,45.24,outcome,Home Improvement,Platinum Card
+374,10/18/2018,Brunch Restaurant,8,outcome,Restaurants,Platinum Card
+375,10/21/2018,income Card Payment,544.37,income,income Card Payment,Platinum Card
+376,10/22/2018,income Card Payment,353.83,income,income Card Payment,Silver Card
+377,10/22/2018,income Card Payment,353.83,outcome,income Card Payment,Checking
+378,10/22/2018,BP,34.66,outcome,Gas & Fuel,Platinum Card
+379,10/23/2018,Grocery Store,7.57,outcome,Groceries,Platinum Card
+380,10/25/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+381,10/25/2018,Amazon,29.98,outcome,Shopping,Platinum Card
+382,10/26/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+383,10/27/2018,American Tavern,25.4,outcome,Restaurants,Silver Card
+384,10/28/2018,Brewing Company,12.71,outcome,Alcohol & Bars,Platinum Card
+385,10/28/2018,Seafood Restaurant,14.75,outcome,Food & Dining,Platinum Card
+386,10/28/2018,Grocery Store,92.49,outcome,Groceries,Platinum Card
+387,10/28/2018,Italian Restaurant,54,outcome,Restaurants,Platinum Card
+388,10/31/2018,Grocery Store,5.64,outcome,Groceries,Platinum Card
+389,11/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+390,11/2/2018,income Card Payment,262.51,income,income Card Payment,Platinum Card
+391,11/2/2018,income Card Payment,262.51,outcome,income Card Payment,Checking
+392,11/2/2018,Mortgage Payment,1209.18,outcome,Mortgage & Rent,Checking
+393,11/3/2018,Pizza Place,23.66,outcome,Fast Food,Platinum Card
+394,11/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+395,11/5/2018,Shell,36.51,outcome,Gas & Fuel,Platinum Card
+396,11/6/2018,Amazon,53.95,outcome,Shopping,Platinum Card
+397,11/6/2018,Gas Company,30,outcome,Utilities,Checking
+398,11/8/2018,Grocery Store,5.64,outcome,Groceries,Platinum Card
+399,11/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+400,11/9/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+401,11/10/2018,Brewing Company,27,outcome,Alcohol & Bars,Platinum Card
+402,11/10/2018,Chick-Fil-A,14.19,outcome,Fast Food,Platinum Card
+403,11/10/2018,Food Truck,24.4,outcome,Groceries,Platinum Card
+404,11/12/2018,Grocery Store,10.18,outcome,Groceries,Platinum Card
+405,11/12/2018,American Tavern,22.33,outcome,Restaurants,Silver Card
+406,11/13/2018,Grocery Store,4.8,outcome,Groceries,Platinum Card
+407,11/13/2018,Grocery Store,37.43,outcome,Groceries,Platinum Card
+408,11/13/2018,Grocery Store,10.15,outcome,Groceries,Platinum Card
+409,11/13/2018,Phone Company,89.54,outcome,Mobile Phone,Checking
+410,11/14/2018,Power Company,60,outcome,Utilities,Checking
+411,11/16/2018,City Water Charges,35,outcome,Utilities,Checking
+412,11/17/2018,Brewing Company,22.8,outcome,Alcohol & Bars,Platinum Card
+413,11/17/2018,Hardware Store,15.47,outcome,Home Improvement,Platinum Card
+414,11/17/2018,Hardware Store,6.4,outcome,Home Improvement,Platinum Card
+415,11/17/2018,Greek Restaurant,23.26,outcome,Restaurants,Platinum Card
+416,11/19/2018,Brewing Company,20,outcome,Alcohol & Bars,Silver Card
+417,11/19/2018,QuikTrip,29.15,outcome,Gas & Fuel,Silver Card
+418,11/19/2018,Hardware Store,10.02,outcome,Home Improvement,Silver Card
+419,11/20/2018,State Farm,75,outcome,Auto Insurance,Checking
+420,11/20/2018,income Card Payment,421.96,income,income Card Payment,Platinum Card
+421,11/21/2018,Grocery Store,5.64,outcome,Groceries,Silver Card
+422,11/21/2018,Hardware Store,37.41,outcome,Home Improvement,Platinum Card
+423,11/23/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+424,11/26/2018,American Tavern,16.8,outcome,Alcohol & Bars,Silver Card
+425,11/26/2018,Internet Service Provider,74.99,outcome,Internet,Checking
+426,11/27/2018,Movie Theater,17,outcome,Movies & DVDs,Silver Card
+427,11/27/2018,American Tavern,28.4,outcome,Restaurants,Silver Card
+428,11/29/2018,income Card Payment,582.99,income,income Card Payment,Silver Card
+429,11/29/2018,income Card Payment,751.5,income,income Card Payment,Platinum Card
+430,11/30/2018,income Card Payment,582.99,outcome,income Card Payment,Checking
+431,11/30/2018,Grocery Store,6.27,outcome,Groceries,Silver Card
+432,12/1/2018,Grocery Store,5.64,outcome,Groceries,Silver Card
+433,12/1/2018,Brunch Restaurant,8,outcome,Restaurants,Silver Card
+434,12/1/2018,Amazon,13.13,outcome,Shopping,Platinum Card
+435,12/3/2018,BP,30.03,outcome,Gas & Fuel,Silver Card
+436,12/3/2018,Grocery Store,148.15,outcome,Groceries,Silver Card
+437,12/3/2018,Mortgage Payment,1209.18,outcome,Mortgage & Rent,Checking
+438,12/4/2018,Starbucks,3,outcome,Coffee Shops,Silver Card
+439,12/4/2018,Latin Restaurant,20.65,outcome,Fast Food,Platinum Card
+440,12/4/2018,Netflix,11.76,outcome,Movies & DVDs,Platinum Card
+441,12/6/2018,Grocery Store,21.38,outcome,Groceries,Platinum Card
+442,12/6/2018,Grocery Store,13.48,outcome,Groceries,Platinum Card
+443,12/6/2018,Gas Company,40,outcome,Utilities,Checking
+444,12/7/2018,Barbershop,30,outcome,Haircut,Platinum Card
+445,12/7/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+446,12/8/2018,Grocery Store,12.64,outcome,Groceries,Platinum Card
+447,12/9/2018,Spotify,10.69,outcome,Music,Platinum Card
+448,12/11/2018,Brunch Restaurant,10.29,outcome,Restaurants,Platinum Card
+449,12/12/2018,Phone Company,89.54,outcome,Mobile Phone,Checking
+450,12/13/2018,Thai Restaurant,27,outcome,Restaurants,Silver Card
+451,12/14/2018,Grocery Store,21.39,outcome,Groceries,Silver Card
+452,12/14/2018,Hardware Store,17.1,outcome,Home Improvement,Silver Card
+453,12/14/2018,Power Company,60,outcome,Utilities,Checking
+454,12/17/2018,American Tavern,63,outcome,Food & Dining,Silver Card
+455,12/17/2018,BP,20.01,outcome,Gas & Fuel,Silver Card
+456,12/17/2018,City Water Charges,35,outcome,Utilities,Checking
+457,12/18/2018,Starbucks,3,outcome,Coffee Shops,Silver Card
+458,12/18/2018,income Card Payment,311.02,income,income Card Payment,Platinum Card
+459,12/18/2018,income Card Payment,311.02,outcome,income Card Payment,Checking
+460,12/18/2018,Fancy Restaurant,56.52,outcome,Restaurants,Silver Card
+461,12/18/2018,Amazon,49.99,outcome,Shopping,Platinum Card
+462,12/18/2018,Amazon,41.72,outcome,Shopping,Platinum Card
+463,12/18/2018,Amazon,24.3,outcome,Shopping,Platinum Card
+464,12/19/2018,State Farm,75,outcome,Auto Insurance,Checking
+465,12/19/2018,Amazon,43.01,outcome,Shopping,Platinum Card
+466,12/20/2018,income Card Payment,464.03,income,income Card Payment,Silver Card
+467,12/20/2018,Shell,30.38,outcome,Gas & Fuel,Silver Card
+468,12/21/2018,income Card Payment,464.03,outcome,income Card Payment,Checking
+469,12/21/2018,Biweekly Paycheck,2000,income,Paycheck,Checking
+470,12/22/2018,New York Deli,21.38,outcome,Fast Food,Platinum Card
+471,12/22/2018,Hardware Store,22.14,outcome,Home Improvement,Platinum Card
+472,12/23/2018,Hardware Store,28,outcome,Home Improvement,Platinum Card
+473,12/24/2018,Hardware Store,38.4,outcome,Home Improvement,Platinum Card
+474,12/26/2018,Chick-Fil-A,56.07,outcome,Fast Food,Platinum Card
+475,12/26/2018,Shell,32.47,outcome,Gas & Fuel,Platinum Card
+476,12/26/2018,Shell,7.48,outcome,Gas & Fuel,Platinum Card
+477,12/26/2018,Internet Service Provider,75.99,outcome,Internet,Checking
+478,12/26/2018,Amazon,44.99,outcome,Shopping,Platinum Card
+479,12/28/2018,Brewing Company,12,outcome,Alcohol & Bars,Silver Card
+480,12/29/2018,Brewing Company,14,outcome,Alcohol & Bars,Silver Card
+481,12/29/2018,income Card Payment,860.05,income,income Card Payment,Platinum Card
+482,12/29/2018,Grocery Store,55.04,outcome,Groceries,Silver Card
+483,1/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+484,1/2/2019,income Card Payment,499.6,outcome,income Card Payment,Checking
+485,1/3/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+486,1/3/2019,Amazon,42.1,outcome,Shopping,Platinum Card
+487,1/4/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+488,1/5/2019,American Tavern,23.49,outcome,Restaurants,Platinum Card
+489,1/8/2019,Gas Company,45,outcome,Utilities,Checking
+490,1/9/2019,income Card Payment,491.45,income,income Card Payment,Platinum Card
+491,1/9/2019,income Card Payment,491.45,outcome,income Card Payment,Checking
+492,1/9/2019,income Card Payment,281.84,outcome,income Card Payment,Checking
+493,1/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+494,1/10/2019,Grocery Store,58.79,outcome,Groceries,Silver Card
+495,1/10/2019,Barbershop,30,outcome,Haircut,Silver Card
+496,1/10/2019,Phone Company,65,outcome,Mobile Phone,Checking
+497,1/14/2019,Shell,28.92,outcome,Gas & Fuel,Silver Card
+498,1/15/2019,Grocery Store,6.06,outcome,Groceries,Silver Card
+499,1/16/2019,City Water Charges,35,outcome,Utilities,Checking
+500,1/16/2019,Power Company,60,outcome,Utilities,Checking
+501,1/18/2019,State Farm,75,outcome,Auto Insurance,Checking
+502,1/18/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+503,1/21/2019,income Card Payment,277.99,income,income Card Payment,Silver Card
+504,1/22/2019,income Card Payment,277.99,outcome,income Card Payment,Checking
+505,1/24/2019,Grocery Store,21.06,outcome,Groceries,Silver Card
+506,1/24/2019,Amazon,11.7,outcome,Shopping,Platinum Card
+507,1/24/2019,Amazon,4.21,outcome,Shopping,Platinum Card
+508,1/25/2019,Internet Service Provider,75,outcome,Internet,Checking
+509,1/31/2019,income Card Payment,1900,outcome,income Card Payment,Checking
+510,1/31/2019,Shell,31.32,outcome,Gas & Fuel,Silver Card
+511,2/1/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+512,2/1/2019,Roadside Diner,9.47,outcome,Restaurants,Silver Card
+513,2/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+514,2/4/2019,Hardware Store,86.97,outcome,Home Improvement,Silver Card
+515,2/4/2019,Netflix,11.76,outcome,Television,Platinum Card
+516,2/5/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+517,2/7/2019,Gas Company,65,outcome,Utilities,Checking
+518,2/8/2019,Starbucks,3,outcome,Coffee Shops,Platinum Card
+519,2/8/2019,Thai Restaurant,27.47,outcome,Restaurants,Platinum Card
+520,2/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+521,2/11/2019,Starbucks,3,outcome,Coffee Shops,Platinum Card
+522,2/11/2019,income Card Payment,133.95,outcome,income Card Payment,Checking
+523,2/11/2019,BP,24.01,outcome,Gas & Fuel,Platinum Card
+524,2/12/2019,Grocery Store,30.54,outcome,Groceries,Platinum Card
+525,2/12/2019,Phone Company,65,outcome,Mobile Phone,Checking
+526,2/13/2019,Grocery Store,8.21,outcome,Groceries,Platinum Card
+527,2/15/2019,income Card Payment,207.47,income,income Card Payment,Platinum Card
+528,2/15/2019,income Card Payment,207.47,outcome,income Card Payment,Checking
+529,2/15/2019,Grocery Store,4.59,outcome,Groceries,Platinum Card
+530,2/15/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+531,2/15/2019,Power Company,60,outcome,Utilities,Checking
+532,2/16/2019,Brewing Company,8,outcome,Alcohol & Bars,Platinum Card
+533,2/16/2019,American Tavern,32.75,outcome,Restaurants,Platinum Card
+534,2/16/2019,Amazon,37.45,outcome,Shopping,Platinum Card
+535,2/19/2019,income Card Payment,574.84,outcome,income Card Payment,Checking
+536,2/19/2019,City Water Charges,35,outcome,Utilities,Checking
+537,2/20/2019,State Farm,75,outcome,Auto Insurance,Checking
+538,2/20/2019,income Card Payment,292.54,income,income Card Payment,Silver Card
+539,2/20/2019,Barbershop,30,outcome,Haircut,Platinum Card
+540,2/21/2019,income Card Payment,292.54,outcome,income Card Payment,Checking
+541,2/21/2019,Grocery Store,46.96,outcome,Groceries,Silver Card
+542,2/25/2019,BP,33.8,outcome,Gas & Fuel,Silver Card
+543,2/25/2019,Internet Service Provider,75,outcome,Internet,Checking
+544,2/27/2019,Roadside Diner,25.77,outcome,Restaurants,Silver Card
+545,2/28/2019,Grocery Store,32.07,outcome,Groceries,Silver Card
+546,3/1/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+547,3/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+548,3/4/2019,Grocery Store,92.04,outcome,Groceries,Silver Card
+549,3/4/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+550,3/4/2019,Netflix,11.76,outcome,Television,Platinum Card
+551,3/5/2019,Fancy Restaurant,7,outcome,Restaurants,Silver Card
+552,3/6/2019,income Card Payment,491.86,outcome,income Card Payment,Checking
+553,3/8/2019,BP,34.08,outcome,Gas & Fuel,Platinum Card
+554,3/8/2019,Amazon,27.17,outcome,Shopping,Platinum Card
+555,3/8/2019,Gas Company,49,outcome,Utilities,Checking
+556,3/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+557,3/12/2019,Phone Company,65,outcome,Mobile Phone,Checking
+558,3/12/2019,Bakery Place,3.02,outcome,Restaurants,Platinum Card
+559,3/13/2019,income Card Payment,532.86,income,income Card Payment,Platinum Card
+560,3/13/2019,income Card Payment,301.79,income,income Card Payment,Silver Card
+561,3/14/2019,income Card Payment,305.27,outcome,income Card Payment,Checking
+562,3/14/2019,income Card Payment,301.79,outcome,income Card Payment,Checking
+563,3/14/2019,Brunch Restaurant,8,outcome,Restaurants,Platinum Card
+564,3/15/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+565,3/15/2019,Power Company,60,outcome,Utilities,Checking
+566,3/18/2019,Best Buy,320.99,outcome,Electronics & Software,Platinum Card
+567,3/18/2019,Grocery Store,16.23,outcome,Groceries,Platinum Card
+568,3/19/2019,Amazon,13.84,outcome,Shopping,Platinum Card
+569,3/19/2019,City Water Charges,35,outcome,Utilities,Checking
+570,3/20/2019,State Farm,75,outcome,Auto Insurance,Checking
+571,3/22/2019,BP,37.51,outcome,Gas & Fuel,Platinum Card
+572,3/23/2019,Starbucks,5.2,outcome,Coffee Shops,Platinum Card
+573,3/25/2019,Internet Service Provider,75,outcome,Internet,Checking
+574,3/26/2019,Amazon,16.04,outcome,Shopping,Platinum Card
+575,3/27/2019,Brewing Company,49.63,outcome,Alcohol & Bars,Platinum Card
+576,3/27/2019,Grocery Store,4.46,outcome,Groceries,Platinum Card
+577,3/29/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+578,3/30/2019,Starbucks,12.84,outcome,Coffee Shops,Platinum Card
+579,3/31/2019,income Card Payment,957.6,income,income Card Payment,Platinum Card
+580,4/1/2019,income Card Payment,1552.65,outcome,income Card Payment,Checking
+581,4/1/2019,income Card Payment,600.51,income,income Card Payment,Platinum Card
+582,4/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+583,4/2/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+584,4/4/2019,Grocery Store,5.64,outcome,Groceries,Platinum Card
+585,4/4/2019,Amazon,35.9,outcome,Shopping,Platinum Card
+586,4/4/2019,Netflix,11.76,outcome,Television,Platinum Card
+587,4/6/2019,Amazon,27.54,outcome,Shopping,Platinum Card
+588,4/8/2019,Gas Company,30,outcome,Utilities,Checking
+589,4/9/2019,income Card Payment,436.75,outcome,income Card Payment,Checking
+590,4/9/2019,Grocery Store,10.7,outcome,Groceries,Platinum Card
+591,4/9/2019,Barbershop,30,outcome,Haircut,Platinum Card
+592,4/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+593,4/10/2019,Phone Company,65,outcome,Mobile Phone,Checking
+594,4/12/2019,Best Buy,44.93,outcome,Electronics & Software,Silver Card
+595,4/12/2019,Grocery Store,41.34,outcome,Groceries,Platinum Card
+596,4/12/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+597,4/13/2019,QuikTrip,38.94,outcome,Gas & Fuel,Platinum Card
+598,4/13/2019,Grocery Store,16.87,outcome,Groceries,Platinum Card
+599,4/13/2019,Vietnamese Restaurant,20.64,outcome,Restaurants,Platinum Card
+600,4/15/2019,Power Company,60,outcome,Utilities,Checking
+601,4/16/2019,City Water Charges,35,outcome,Utilities,Checking
+602,4/18/2019,State Farm,75,outcome,Auto Insurance,Checking
+603,4/18/2019,income Card Payment,604.32,income,income Card Payment,Silver Card
+604,4/18/2019,income Card Payment,458.1,income,income Card Payment,Platinum Card
+605,4/19/2019,income Card Payment,604.32,outcome,income Card Payment,Checking
+606,4/19/2019,Grocery Store,10.89,outcome,Groceries,Platinum Card
+607,4/22/2019,Brewing Company,14.4,outcome,Alcohol & Bars,Silver Card
+608,4/22/2019,Greek Restaurant,64.52,outcome,Restaurants,Silver Card
+609,4/23/2019,Hardware Store,29.56,outcome,Home Improvement,Silver Card
+610,4/25/2019,Internet Service Provider,75,outcome,Internet,Checking
+611,4/26/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+612,4/27/2019,Brewing Company,40,outcome,Alcohol & Bars,Platinum Card
+613,4/27/2019,income Card Payment,268.96,income,income Card Payment,Silver Card
+614,4/27/2019,American Tavern,14.74,outcome,Restaurants,Silver Card
+615,4/29/2019,income Card Payment,268.96,outcome,income Card Payment,Checking
+616,4/29/2019,Grocery Store,5.64,outcome,Groceries,Platinum Card
+617,4/30/2019,BP,39.08,outcome,Gas & Fuel,Platinum Card
+618,5/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+619,5/2/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+620,5/3/2019,income Card Payment,758.07,outcome,income Card Payment,Checking
+621,5/4/2019,Netflix,13.9,outcome,Television,Platinum Card
+622,5/6/2019,Amazon,16.94,outcome,Shopping,Platinum Card
+623,5/7/2019,Amazon,38.56,outcome,Shopping,Platinum Card
+624,5/9/2019,Best Buy,331.69,outcome,Electronics & Software,Platinum Card
+625,5/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+626,5/9/2019,Target,3.2,outcome,Shopping,Platinum Card
+627,5/9/2019,Gas Company,30,outcome,Utilities,Checking
+628,5/10/2019,Best Buy,21.39,outcome,Electronics & Software,Silver Card
+629,5/10/2019,Phone Company,65,outcome,Mobile Phone,Checking
+630,5/10/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+631,5/13/2019,income Card Payment,480.88,outcome,income Card Payment,Checking
+632,5/13/2019,QuikTrip,35.24,outcome,Gas & Fuel,Silver Card
+633,5/13/2019,Fancy Restaurant,98.19,outcome,Restaurants,Silver Card
+634,5/13/2019,Greek Restaurant,23.11,outcome,Restaurants,Silver Card
+635,5/14/2019,Grocery Store,2.02,outcome,Groceries,Silver Card
+636,5/15/2019,Power Company,60,outcome,Utilities,Checking
+637,5/17/2019,income Card Payment,575.33,income,income Card Payment,Platinum Card
+638,5/17/2019,City Water Charges,35,outcome,Utilities,Checking
+639,5/20/2019,State Farm,75,outcome,Auto Insurance,Checking
+640,5/20/2019,income Card Payment,415.47,outcome,income Card Payment,Checking
+641,5/20/2019,American Tavern,32.53,outcome,Restaurants,Silver Card
+642,5/24/2019,income Card Payment,765.68,income,income Card Payment,Silver Card
+643,5/24/2019,Hardware Store,27.96,outcome,Home Improvement,Platinum Card
+644,5/24/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+645,5/24/2019,Brunch Restaurant,8,outcome,Restaurants,Platinum Card
+646,5/25/2019,QuikTrip,36.76,outcome,Gas & Fuel,Platinum Card
+647,5/25/2019,Hardware Store,30.99,outcome,Home Improvement,Platinum Card
+648,5/27/2019,Mexican Restaurant,34.33,outcome,Restaurants,Platinum Card
+649,5/28/2019,income Card Payment,765.68,outcome,income Card Payment,Checking
+650,5/30/2019,Internet Service Provider,75,outcome,Internet,Checking
+651,5/30/2019,American Tavern,34.82,outcome,Restaurants,Platinum Card
+652,6/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+653,6/3/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+654,6/3/2019,income Card Payment,260.95,income,income Card Payment,Platinum Card
+655,6/3/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+656,6/4/2019,Barbershop,30,outcome,Haircut,Platinum Card
+657,6/4/2019,Netflix,13.9,outcome,Television,Platinum Card
+658,6/5/2019,Grocery Store,23,outcome,Groceries,Platinum Card
+659,6/5/2019,Mexican Restaurant,23.24,outcome,Restaurants,Platinum Card
+660,6/6/2019,Starbucks,3.75,outcome,Coffee Shops,Platinum Card
+661,6/6/2019,Grocery Store,5.64,outcome,Groceries,Platinum Card
+662,6/7/2019,income Card Payment,458.56,outcome,income Card Payment,Checking
+663,6/7/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+664,6/7/2019,Gas Company,30,outcome,Utilities,Checking
+665,6/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+666,6/12/2019,Phone Company,65,outcome,Mobile Phone,Checking
+667,6/13/2019,income Card Payment,152.72,income,income Card Payment,Platinum Card
+668,6/13/2019,income Card Payment,152.72,outcome,income Card Payment,Checking
+669,6/14/2019,Grocery Store,10.69,outcome,Groceries,Silver Card
+670,6/15/2019,BP,33.16,outcome,Gas & Fuel,Silver Card
+671,6/17/2019,City Water Charges,35,outcome,Utilities,Checking
+672,6/17/2019,Power Company,60,outcome,Utilities,Checking
+673,6/18/2019,Brewing Company,15,outcome,Alcohol & Bars,Silver Card
+674,6/18/2019,Shell,41.83,outcome,Gas & Fuel,Silver Card
+675,6/19/2019,State Farm,75,outcome,Auto Insurance,Checking
+676,6/20/2019,income Card Payment,375.26,outcome,income Card Payment,Checking
+677,6/20/2019,Mike's Construction Co.,9200,outcome,Home Improvement,Checking
+678,6/20/2019,income Card Payment,100.68,income,income Card Payment,Silver Card
+679,6/21/2019,income Card Payment,100.68,outcome,income Card Payment,Checking
+680,6/21/2019,Biweekly Paycheck,2000,income,Paycheck,Checking
+681,6/24/2019,Brewing Company,15,outcome,Alcohol & Bars,Silver Card
+682,6/28/2019,BP,30.64,outcome,Gas & Fuel,Silver Card
+683,6/30/2019,Internet Service Provider,75,outcome,Internet,Checking
+684,7/1/2019,Starbucks,7,outcome,Coffee Shops,Silver Card
+685,7/1/2019,Grocery Store,99.47,outcome,Groceries,Silver Card
+686,7/1/2019,Hawaiian Grill,24.97,outcome,Restaurants,Silver Card
+687,7/1/2019,Thai Restaurant,24,outcome,Restaurants,Silver Card
+688,7/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+689,7/2/2019,Hardware Store,229.9,outcome,Home Improvement,Platinum Card
+690,7/2/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+691,7/4/2019,Netflix,13.9,outcome,Television,Platinum Card
+692,7/5/2019,Brewing Company,19,outcome,Alcohol & Bars,Silver Card
+693,7/5/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+694,7/6/2019,income Card Payment,220.08,income,income Card Payment,Silver Card
+695,7/6/2019,Grocery Store,92.98,outcome,Groceries,Platinum Card
+696,7/6/2019,Greek Restaurant,23.26,outcome,Restaurants,Platinum Card
+697,7/7/2019,Hardware Store,103.14,outcome,Home Improvement,Platinum Card
+698,7/8/2019,income Card Payment,305.28,outcome,income Card Payment,Checking
+699,7/8/2019,income Card Payment,220.08,outcome,income Card Payment,Checking
+700,7/9/2019,income Card Payment,549.72,income,income Card Payment,Platinum Card
+701,7/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+702,7/10/2019,Phone Company,65,outcome,Mobile Phone,Checking
+703,7/10/2019,Gas Company,30,outcome,Utilities,Checking
+704,7/15/2019,Grocery Store,87.14,outcome,Groceries,Silver Card
+705,7/16/2019,Amazon,89.99,outcome,Shopping,Platinum Card
+706,7/16/2019,Power Company,60,outcome,Utilities,Checking
+707,7/17/2019,City Water Charges,35,outcome,Utilities,Checking
+708,7/18/2019,State Farm,75,outcome,Auto Insurance,Checking
+709,7/18/2019,income Card Payment,814.5,outcome,income Card Payment,Checking
+710,7/18/2019,BP,36.42,outcome,Gas & Fuel,Silver Card
+711,7/18/2019,Grocery Store,29.83,outcome,Groceries,Platinum Card
+712,7/18/2019,Brunch Restaurant,8.82,outcome,Restaurants,Platinum Card
+713,7/19/2019,income Card Payment,115.52,income,income Card Payment,Platinum Card
+714,7/19/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+715,7/19/2019,Mexican Restaurant,28,outcome,Restaurants,Platinum Card
+716,7/22/2019,income Card Payment,257.08,income,income Card Payment,Silver Card
+717,7/22/2019,Thai Restaurant,26.67,outcome,Restaurants,Silver Card
+718,7/23/2019,income Card Payment,257.08,outcome,income Card Payment,Checking
+719,7/24/2019,Starbucks,2.5,outcome,Coffee Shops,Silver Card
+720,7/27/2019,Barbershop,30,outcome,Haircut,Silver Card
+721,7/28/2019,Hardware Store,44.31,outcome,Home Improvement,Platinum Card
+722,7/29/2019,Grocery Store,5.35,outcome,Groceries,Platinum Card
+723,7/29/2019,Fancy Restaurant,44.92,outcome,Restaurants,Silver Card
+724,7/30/2019,Grocery Store,15.77,outcome,Groceries,Platinum Card
+725,7/30/2019,Internet Service Provider,75,outcome,Internet,Checking
+726,8/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+727,8/2/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+728,8/2/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+729,8/3/2019,BP,36.36,outcome,Gas & Fuel,Platinum Card
+730,8/3/2019,Grocery Store,3.96,outcome,Groceries,Platinum Card
+731,8/3/2019,American Tavern,23.47,outcome,Restaurants,Platinum Card
+732,8/4/2019,Netflix,13.9,outcome,Television,Platinum Card
+733,8/5/2019,Brewing Company,18,outcome,Alcohol & Bars,Silver Card
+734,8/5/2019,income Card Payment,349.28,income,income Card Payment,Platinum Card
+735,8/5/2019,income Card Payment,117.65,income,income Card Payment,Silver Card
+736,8/6/2019,income Card Payment,521.17,outcome,income Card Payment,Checking
+737,8/6/2019,income Card Payment,117.65,outcome,income Card Payment,Checking
+738,8/6/2019,Hardware Store,125,outcome,Home Improvement,Checking
+739,8/8/2019,Grocery Store,11.72,outcome,Groceries,Silver Card
+740,8/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+741,8/9/2019,Gas Company,30,outcome,Utilities,Checking
+742,8/12/2019,Phone Company,65,outcome,Mobile Phone,Checking
+743,8/12/2019,Thai Restaurant,26.67,outcome,Restaurants,Silver Card
+744,8/14/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+745,8/15/2019,income Card Payment,335.2,outcome,income Card Payment,Checking
+746,8/15/2019,Power Company,60,outcome,Utilities,Checking
+747,8/16/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+748,8/16/2019,City Water Charges,35,outcome,Utilities,Checking
+749,8/17/2019,income Card Payment,87.17,income,income Card Payment,Platinum Card
+750,8/17/2019,Grocery Store,33.15,outcome,Groceries,Platinum Card
+751,8/17/2019,Barbershop,19,outcome,Haircut,Platinum Card
+752,8/17/2019,American Tavern,3.5,outcome,Restaurants,Platinum Card
+753,8/19/2019,income Card Payment,1248.95,outcome,income Card Payment,Checking
+754,8/20/2019,State Farm,75,outcome,Auto Insurance,Checking
+755,8/20/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+756,8/21/2019,Shell,34.69,outcome,Gas & Fuel,Platinum Card
+757,8/23/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+758,8/25/2019,Brunch Restaurant,39.43,outcome,Restaurants,Platinum Card
+759,8/26/2019,Hardware Store,66.75,outcome,Home Improvement,Silver Card
+760,8/29/2019,Starbucks,3,outcome,Coffee Shops,Platinum Card
+761,8/30/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+762,8/30/2019,Internet Service Provider,75,outcome,Internet,Checking
+763,8/30/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+764,8/31/2019,Hardware Store,68.04,outcome,Home Improvement,Platinum Card
+765,8/31/2019,BBQ Restaurant,41.78,outcome,Restaurants,Silver Card
+766,9/1/2019,Amazon,13.09,outcome,Shopping,Platinum Card
+767,9/3/2019,Mortgage Payment,1100,outcome,Mortgage & Rent,Checking
+768,9/3/2019,Fancy Restaurant,41.24,outcome,Restaurants,Silver Card
+769,9/4/2019,Netflix,13.9,outcome,Television,Platinum Card
+770,9/5/2019,Starbucks,3.75,outcome,Coffee Shops,Platinum Card
+771,9/6/2019,income Card Payment,1390.37,income,income Card Payment,Platinum Card
+772,9/6/2019,income Card Payment,1390.37,outcome,income Card Payment,Checking
+773,9/6/2019,income Card Payment,502.75,outcome,income Card Payment,Checking
+774,9/7/2019,Brewing Company,12.87,outcome,Alcohol & Bars,Platinum Card
+775,9/8/2019,Brewing Company,19.3,outcome,Alcohol & Bars,Platinum Card
+776,9/9/2019,Shell,28.77,outcome,Gas & Fuel,Platinum Card
+777,9/9/2019,Grocery Store,65.09,outcome,Groceries,Silver Card
+778,9/9/2019,Hardware Store,26.25,outcome,Home Improvement,Silver Card
+779,9/9/2019,Spotify,10.69,outcome,Music,Platinum Card
+780,9/9/2019,Gas Company,30,outcome,Utilities,Checking
+781,9/11/2019,income Card Payment,360.56,income,income Card Payment,Silver Card
+782,9/11/2019,Phone Company,65,outcome,Mobile Phone,Checking
+783,9/12/2019,income Card Payment,360.56,outcome,income Card Payment,Checking
+784,9/13/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+785,9/13/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+786,9/14/2019,Grocery Store,46.44,outcome,Groceries,Platinum Card
+787,9/15/2019,Amazon,47.66,outcome,Shopping,Platinum Card
+788,9/16/2019,income Card Payment,90.57,outcome,income Card Payment,Checking
+789,9/16/2019,income Card Payment,90.57,income,income Card Payment,Silver Card
+790,9/16/2019,City Water Charges,35,outcome,Utilities,Checking
+791,9/17/2019,income Card Payment,186.13,income,income Card Payment,Platinum Card
+792,9/17/2019,Power Company,60,outcome,Utilities,Checking
+793,9/18/2019,State Farm,75,outcome,Auto Insurance,Checking
+794,9/18/2019,income Card Payment,1606.46,outcome,income Card Payment,Checking
+795,9/19/2019,Brewing Company,40.81,outcome,Alcohol & Bars,Platinum Card
+796,9/19/2019,Starbucks,2.75,outcome,Coffee Shops,Platinum Card
+797,9/20/2019,income Card Payment,9.43,income,income Card Payment,Silver Card
+798,9/22/2019,Seafood Restaurant,131.1,outcome,Restaurants,Platinum Card
+799,9/23/2019,income Card Payment,9.43,outcome,income Card Payment,Checking
+800,9/23/2019,Grocery Store,27.71,outcome,Groceries,Platinum Card
+801,9/23/2019,Amazon,24.63,outcome,Shopping,Platinum Card
+802,9/27/2019,Biweekly Paycheck,2250,income,Paycheck,Checking
+803,9/28/2019,BP,33.46,outcome,Gas & Fuel,Platinum Card
+804,9/28/2019,Sheetz,4.27,outcome,Gas & Fuel,Platinum Card
+805,9/30/2019,Starbucks,1.75,outcome,Coffee Shops,Platinum Card
+806,9/30/2019,Internet Service Provider,75,outcome,Internet,Checking
