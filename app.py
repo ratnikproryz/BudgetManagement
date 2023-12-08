@@ -14,10 +14,13 @@ def home():
     csvController = CSVController()
 
     page = int(request.args.get("page", 1))
-    header, data, pagination = csvController.index(page)
+    category = request.args.get("category", "None")
+    print(category)
+    header, data,categories, pagination = csvController.index(page, category)
     return render_template(
         "home.html",
         header=header,
+        categories=categories,
         data=data[(page - 1) * 10 : 10 * (page)],
         pagination=pagination,
     )
