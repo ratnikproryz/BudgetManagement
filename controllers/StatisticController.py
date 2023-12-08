@@ -57,22 +57,18 @@ class StatisticController:
         types = self.df["transaction_type"].unique()
         categories_count = self.df["category"].value_counts()
         categories = categories_count[0:top].keys()
-        print(categories)
         for type in types:
             df = self.df[self.df["transaction_type"] == type]
-            df = df[df["category"].isin(categories)]
-
-            totals = df.groupby("category")["amount"].sum()
-            print(type)
-            print(totals)
-
-            axis.hist(
-                totals,
-                bins=10,
-                alpha=0.5,
-                label=type,
-                edgecolor="black",
-            )
+            for category in categories:
+                print(df[df["category"] == category])
+                df = df[df["category"] == category]
+                axis.hist(
+                    df[df["transaction_type"] == type]["amount"].values,
+                    bins=10,
+                    alpha=0.5,
+                    label=type + " - " + category,
+                    edgecolor="black",
+                )
 
         axis.set_title("Total income and outcome")
         axis.legend()
