@@ -7,13 +7,20 @@ class CSVController:
     def __init__(self):
         self.df = pd.read_csv("./data/personal_transactions.csv")
 
-    def index(self, page):
+    def index(self, page, category):
         header = self.df.columns
-        data = self.df.values
+
+        if(category == "None" or category == None):
+            data = self.df.values
+        else:
+            data = self.df[self.df['category'] == category].values
+        
         total = len(data)
+
+        categories= self.df["category"].unique()
         pagination = Pagination(page=page, total=total)
 
-        return header, data, pagination
+        return header, data,categories, pagination
 
     def export(self, page):
         if page == 0:
